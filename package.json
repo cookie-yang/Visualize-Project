@@ -1,0 +1,26 @@
+{
+  "name": "visualize-project",
+  "version": "1.0.0",
+  "description": "this is a project created by cookie only for course project",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookie-yang/Visualize-Project.git"
+  },
+  "keywords": [
+    "visualize"
+  ],
+  "author": "cookie.yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cookie-yang/Visualize-Project/issues"
+  },
+  "homepage": "https://github.com/cookie-yang/Visualize-Project#readme"
+}
