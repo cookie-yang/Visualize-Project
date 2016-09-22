@@ -1,0 +1,139 @@
+<html> 
+<head> 
+	<meta charset="utf-8"> 
+	<title>BarChart</title>
+
+	<style>
+		.axis path,
+		.axis line{
+			fill: none;
+			stroke: black;
+			shape-rendering: crispEdges;
+		}
+
+		.axis text {
+			font-family: sans-serif;
+			font-size: 11px;
+		}
+
+		.MyRect {
+
+		}
+
+		.MyText {
+			fill: white;
+			text-anchor: middle;
+		}
+	</style>
+
+</head> 
+<body>
+
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script> 
+	<script> 
+
+    var width = 400;
+    var height = 400;
+
+    // add svg element in boy
+    var svg = d3.select("body")
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+    // canvas padding
+    var padding = {left:30, right:30, top:20, bottom:20};
+
+    // dataset definition
+    var dataset = [10, 20, 30, 40, 33, 24, 12, 5];
+
+    // scale for X axis
+    var xScale = d3.scale.ordinal()
+    .domain(d3.range(dataset.length))
+    .rangeRoundBands([0, width - padding.left - padding.right]);
+
+    // scale for Y axis
+    var yScale = d3.scale.linear()
+    .domain([0,d3.max(dataset)])
+    .range([height - padding.top - padding.bottom, 0]);
+
+    // x axis definition
+    var xAxis = d3.svg.axis()
+    .scale(xScale)
+    .orient("bottom");
+
+    // y axis definiation
+    var yAxis = d3.svg.axis()
+    .scale(yScale)
+    .orient("left");
+
+    var rectPadding = 4;
+
+    // add rectangles for all bars
+    var rects = svg.selectAll(".MyRect")
+    .data(dataset)
+    .enter()
+    .append("rect")
+    .attr("class", "MyRect")
+    .attr("transform", "translate(" + padding.left + "," + padding.top + ")")
+    .attr("x", function(d,i){
+    	return xScale(i) + rectPadding/2;
+    } )
+    .attr("y",function(d){
+    	return yScale(d);
+    })
+    .attr("width", xScale.rangeBand() - rectPadding )
+    .attr("height", function(d){
+    	return height - padding.top - padding.bottom - yScale(d);
+    })
+    .attr("fill","steelblue")
+    .on("mouseover",function(d,i){
+    	d3.select(this)
+    	.attr("fill","red");
+    })
+    .on("mouseout",function(d,i){
+    	d3.select(this)
+    	.transition()
+    	.duration(500)
+    	.attr("fill","steelblue");
+    });
+
+    // add texts to show the numbers
+    var texts = svg.selectAll(".MyText")
+    .data(dataset)
+    .enter()
+    .append("text")
+    .attr("class","MyText")
+    .attr("transform","translate(" + padding.left + "," + padding.top + ")")
+    .attr("x", function(d,i){
+    	return xScale(i) + rectPadding/2;
+    } )
+    .attr("y",function(d){
+    	return yScale(d);
+    })
+    .attr("dx",function(){
+    	return (xScale.rangeBand() - rectPadding)/2;
+    })
+    .attr("dy",function(d){
+    	return 20;
+    })
+    .text(function(d){
+    	return d;
+    });
+
+    // adjust x axis location
+    svg.append("g")
+    .attr("class","axis")
+    .attr("transform","translate(" + padding.left + "," + (height - padding.bottom) + ")")
+    .call(xAxis); 
+
+    // adjust y axis location
+    svg.append("g")
+    .attr("class","axis")
+    .attr("transform","translate(" + padding.left + "," + padding.top + ")")
+    .call(yAxis);
+
+</script> 
+
+</body>
+</html>

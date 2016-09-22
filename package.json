@@ -4,7 +4,9 @@
   "description": "this is a project created by cookie only for course project",
   "main": "index.js",
   "dependencies": {
-    "d3": "^4.2.5"
+    "babel": "^6.5.2",
+    "d3": "^4.2.5",
+    "express": "^4.14.0"
   },
   "devDependencies": {},
   "scripts": {
