@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="sylvester.js"></script>
+	<script src="d3.parcoords.js"></script>
+	<script src="divgrid.js"></script>
+	<link rel="stylesheet" type="text/css" href="d3.parcoords.css">
+	<meta charset="UTF-8">
+	<style type="text/css">
+html, body { background: #f7f7f7; height: 100%; margin: 0; padding: 0; color: #111; font-family: Ubuntu, Helvetica, sans-serif; font-size: 12px; line-height: 1.35em;}
+a { color: #6be; text-decoration: none; }
+.row, .header, .cell { height: 18px; }
+.row, .header { clear: left; }
+.header { font-weight: bold; }
+.cell { float: left; overflow: hidden; white-space: nowrap; width: 100px; }
+.col-0 { width: 180px; }
+</style>
+</head>
+<body>
+	<div id="example" class="parcoords" style="width:800px;height:300px"></div>
+	<div id="grid"></div>
+	
+</body>
+<script>
+// linear color scale
+var colorgen = d3.scale.ordinal()
+    .range(["#a6cee3","#1f78b4","#b2df8a","#33a02c",
+            "#fb9a99","#e31a1c","#fdbf6f","#ff7f00",
+            "#cab2d6","#6a3d9a","#ffff99","#b15928"]);
+// interact with this variable from a javascript console
+var pc1;
+
+// load csv file and create the chart
+d3.csv('test2-1.csv', function(data) {
+  pc1 = d3.parcoords()("#example")
+    .data(data)
+	.bundlingStrength(0)
+	.smoothness(0.05)
+	.hideAxis(["Movie","dFBlike","Director","Actor1","Actor2","Actor3"])
+	.bundleDimension("Gross(M)")
+	.showControlPoints(false)
+    .composite("darker")
+	.color(function(d) { return colorgen(d['Gross(M)'])})  // quantitative color scale
+    .alpha(0.35)
+	.mode("queue")
+    .render()
+	.reorderable()
+    .brushMode("1D-axes")  // enable brushing
+    .interactive()  // command line mode
+
+
+  var explore_count = 0;
+  var exploring = {};
+  var explore_start = false;
+  pc1.svg
+    .selectAll(".dimension")
+    .style("cursor", "pointer")
+    .on("click", function(d) {
+      exploring[d] = d in exploring ? false : true;
+      event.preventDefault();
+      if (exploring[d]) d3.timer(explore(d,explore_count));
+    });
+
+  function explore(dimension,count) {
+    if (!explore_start) {
+      explore_start = true;
+      d3.timer(pc1.brush);
+    }
+    var speed = (Math.round(Math.random()) ? 1 : -1) * (Math.random()+0.5);
+    return function(t) {
+      if (!exploring[dimension]) return true;
+      var domain = pc1.yscale[dimension].domain();
+      var width = (domain[1] - domain[0])/4;
+
+      var center = width*1.5*(1+Math.sin(speed*t/1200)) + domain[0];
+
+      pc1.yscale[dimension].brush.extent([
+        d3.max([center-width*0.01, domain[0]-width/400]),
+        d3.min([center+width*1.01, domain[1]+width/100])
+      ])(pc1.g()
+          .filter(function(d) {
+            return d == dimension;
+          })
+      );
+    };
+  };
+
+  var grid = d3.divgrid();
+  grid.columns(["Movie","Gross(M)","Budget(M)","Rate","Director","Actor1","Actor2","Actor3"])
+  d3.select("#grid")
+    .datum(data.slice(0,10))
+    .call(grid)
+    .selectAll(".row")
+    .on({
+      "mouseover": function(d) { pc1.highlight([d]) },
+      "mouseout": pc1.unhighlight
+    });
+
+  pc1.on("brush", function(d) {
+    d3.select("#grid")
+      .datum(d.slice(0,10))
+      .call(grid)
+      .selectAll(".row")
+      .on({
+        "mouseover": function(d) { pc1.highlight([d]) },
+        "mouseout": pc1.unhighlight
+      });
+  });
+});
+</script>
+</html>

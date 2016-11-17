@@ -1,0 +1,30 @@
+movie,gross(M),budget(M),dlike,a1like,a2like,a3like,mlike,rate,director,actor1,actor2,actor3
+Avatar,760.505847,237,0,1000,936,855,33000,7.9,James Cameron,CCH Pounder,Joel David Moore,Wes Studi
+Titanic,658.672302,200,0,29000,14000,794,26000,7.7,James Cameron,Leonardo DiCaprio,Kate Winslet,Gloria Stuart
+Jurassic World,652.177271,150,365,3000,2000,1000,150000,7,Colin Trevorrow,Bryce Dallas Howard,Judy Greer,Omar Sy
+The Avengers,623.279547,220,0,26000,21000,19000,123000,8.1,Joss Whedon,Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson
+The Dark Knight,533.316061,185,22000,23000,13000,11000,37000,9,Christopher Nolan,Christian Bale,Heath Ledger,Morgan Freeman
+Star Wars: Episode I - The Phantom Menace,474.544677,115,0,20000,14000,1000,13000,6.5,George Lucas,Natalie Portman,Liam Neeson,Ian McDiarmid
+Star Wars: Episode IV - A New Hope,460.935665,11,0,11000,1000,504,33000,8.7,George Lucas,Harrison Ford,Peter Cushing,Kenny Baker
+Avengers: Age of Ultron,458.991599,250,0,26000,21000,19000,118000,7.5,Joss Whedon,Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson
+The Dark Knight Rises,448.130642,250,22000,27000,23000,23000,164000,8.5,Christopher Nolan,Tom Hardy,Christian Bale,Joseph Gordon-Levitt
+Shrek 2,436.471036,150,80,692,309,48,0,7.2,Andrew Adamson,Rupert Everett,Jennifer Saunders,Conrad Vernon
+E.T. the Extra-Terrestrial,434.949459,10.5,14000,861,725,548,34000,7.9,Steven Spielberg,Henry Thomas,Dee Wallace,Peter Coyote
+The Hunger Games: Catching Fire,424.645577,130,508,34000,14000,523,82000,7.6,Francis Lawrence,Jennifer Lawrence,Josh Hutcherson,Sandra Ellis Lafferty
+Pirates of the Caribbean: Dead Man's Chest,423.032628,225,563,40000,5000,1000,5000,7.3,Gore Verbinski,Johnny Depp,Orlando Bloom,Jack Davenport
+The Lion King,422.783777,45,28,2000,886,847,17000,8.5,Roger Allers,Matthew Broderick,Nathan Lane,Niketa Calame
+Toy Story 3,414.984497,200,125,15000,1000,721,30000,8.3,Lee Unkrich,Tom Hanks,John Ratzenberger,Don Rickles
+Iron Man 3,408.992272,200,1000,21000,4000,3000,95000,7.2,Shane Black,Robert Downey Jr.,Jon Favreau,Don Cheadle
+The Hunger Games,407.999255,78,378,34000,14000,575,140000,7.3,Gary Ross,Jennifer Lawrence,Josh Hutcherson,Anthony Reynolds
+Captain America: Civil War,407.197282,250,94,21000,19000,11000,72000,8.2,Anthony Russo,Robert Downey Jr.,Scarlett Johansson,Chris Evans
+Spider-Man,403.706375,139,0,24000,11000,4000,5000,7.3,Sam Raimi,J.K. Simmons,James Franco,Kirsten Dunst
+Transformers: Revenge of the Fallen,402.076689,200,0,894,581,464,0,6,Michael Bay,Glenn Morshower,Kevin Dunn,Ramon Rodriguez
+Frozen,400.7366,150,69,1000,523,490,58000,7.6,Chris Buck,Josh Gad,Maurice LaMarche,Livvy Stubenrauch
+Finding Nemo,380.83887,94,475,1000,939,799,11000,8.2,Andrew Stanton,Alexander Gould,Stephen Root,Brad Garrett
+Star Wars: Episode III - Revenge of the Sith,380.262555,113,0,20000,16000,4000,10000,7.6,George Lucas,Natalie Portman,Christopher Lee,Hayden Christensen
+The Lord of the Rings: The Return of the King,377.019252,94,0,5000,857,416,16000,8.9,Peter Jackson,Orlando Bloom,Billy Boyd,Bernard Hill
+Spider-Man 2,373.377893,200,0,24000,11000,4000,0,7.3,Sam Raimi,J.K. Simmons,James Franco,Kirsten Dunst
+Despicable Me 2,368.049635,76,275,7000,2000,1000,56000,7.5,Pierre Coffin,Steve Carell,Miranda Cosgrove,Steve Coogan
+Deadpool,363.024263,58,84,16000,805,361,117000,8.1,Tim Miller,Ryan Reynolds,Ed Skrein,Stefan Kapicic
+The Jungle Book,362.645141,175,4000,19000,13000,591,65000,7.8,Jon Favreau,Scarlett Johansson,Bill Murray,Garry Shandling
+Jurassic Park,356.784,63,14000,967,610,191,19000,8.1,Steven Spielberg,Wayne Knight,Ariana Richards,Bob Peck
