@@ -1,0 +1,43 @@
+html, body { 
+	height: 100%;
+	margin: 0;
+	padding: 20px;
+	color: #111;
+	font-family: Ubuntu, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.5em;
+}
+a {
+	color: #6be;
+	text-decoration: none; 
+}
+.row, .header, .cell {
+	height: 24px;
+}
+.row:nth-child(odd) {
+	background: rgba(0,0,0,0.05); 
+}
+.row, .header { 
+	clear: left; 
+}
+.header {
+	font-weight: bold;
+}
+.cell { 
+	float: left;
+	overflow: hidden;
+	word-wrap:break-word; 
+	width: 140px;
+}
+.col-0 { 
+	width: 250px;
+}
+.col-2 {
+	width: 100px;
+}
+.col-3 {
+	width: 70px;
+}
+#grid{
+	margin-top:40px;
+}
