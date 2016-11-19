@@ -1,309 +1,310 @@
 <html>
 
-<head>
+	<head>
 
-    <!DOCTYPE html>
-    <meta charset="utf-8">
-    <title>Pie Chart</title>
-    <style>
-        .node text {
-            font: 10px sans-serif;
-        }
-        
-        .node--internal circle {
-            fill: #555;
-        }
-        
-        .node--internal text {
-            text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
-        }
-        
-        .link {
-            fill: none;
-            stroke-opacity: 0.4;
-            stroke-width: 1.5px;
-        }
-    </style>
-	<meta charset="UTF-8">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-</head>
+		<!DOCTYPE html>
+		<meta charset="utf-8">
+		<title>Pie Chart</title>
+		<style>
+body{background:#faf5f4!important;}
+.node text {
+	font: 10px sans-serif;
+}
 
+		.node--internal circle {
+			fill: #555;
+		}
 
+		.node--internal text {
+			text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+		}
 
-<body>
-<nav class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">Project name</a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="#">Home</a></li>
-            <li class="active"><a href="pie_chart.html">Graph1</a></li>
-            <li><a href="pctest.html">Graph2</a></li>
-            <li><a href="sijia.html">Graph3</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
-    </nav>	
-    <script src="http://d3js.org/d3.v4.min.js"></script>
-
-    <script>
-        var width = 1500
-        var height = 2000
-        var root
-
-        var svg = d3.select("body")
-            .append("svg")
-            .attr("width", width)
-            .attr("height", height)
-
-
-        var g = d3.select("svg")
-            .append("g")
-            .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")")
-
-
-        var tree = d3.tree()
-            .size([width / 4, height / 4])
-            .separation(function(a, b) {
-                return (a.parent == b.parent ? 1 : 2) / a.depth;
-            })
-
-        var stratify = d3.stratify()
-            .parentId(function(d) {
-                return d.id.substring(0, d.id.lastIndexOf("."))
-            })
-
-
-        // return "M" + project(d.x, d.y) +
-        //     "C" + project(d.x, (d.y + d.parent.y) / 2) +
-        //     " " + project(d.parent.x, (d.y + d.parent.y) / 2) +
-        //     " " + project(d.parent.x, d.parent.y);
-        function diagonal(s, d) {
-
-            // path = `M ${s.x} ${s.x}
-            // C ${(s.y + d.y) / 2} ${s.x},
-            //   ${(s.y + d.y) / 2} ${d.x},
-            //   ${d.y} ${d.x}`
-
-            path = "M" + project(s.x, s.y) +
-                "C" + project(s.x, (s.y + d.y) / 2) +
-                " " + project(d.x, (s.y + d.y) / 2) +
-                " " + project(d.x, d.y);
-
-            return path
-        }
-
-        function project(x, y) {
-            var angle = (0.953 * x - 90) / 180 * Math.PI
-            var radius = y
-            return [radius * Math.cos(angle), radius * Math.sin(angle)]
-        }
-
-        function collapse(d) {
-            if (d.children) {
-                d._children = d.children
-                d._children.forEach(collapse)
-                d.children = null
-            }
-        }
-
-        function click(d) {
-            if (d.children) {
-                d._children = d.children;
-                d.children = null;
-            } else {
-                d.children = d._children;
-                d._children = null;
-            }
-            render(d)
-        }
-
-        function render(source) {
-
-            var treedata = tree(root)
-            var nodes = treedata.descendants()
-            nodes.forEach(function(d) {
-                d.x0 = d.x
-                d.y0 = d.y
-
-            })
+		.link {
+			fill: none;
+			stroke-opacity: 0.4;
+			stroke-width: 1.5px;
+		}
+		</style>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	</head>
 
 
 
-            var node = g.selectAll(".node")
-                .data(nodes, function(d) {
-                    return d.id || (d.id = ++i)
-                })
+	<body>
+		<nav class="navbar navbar-default">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li><a href="index.html">Home</a></li>
+						<li class="active"><a href="pie_chart.html">Graph1</a></li>
+						<li><a href="pctest.html">Graph2</a></li>
+						<li><a href="sijia.html">Graph3</a></li>
+					</ul>
+				</div><!--/.nav-collapse -->
+			</div>
+		</nav>	
+		<h1>Factors considering genres and year.</h1>
+		<script src="http://d3js.org/d3.v4.min.js"></script>
 
-            var nodeEnter = node.enter()
+		<script>
+var width = 1500
+var height = 2000
+var root
+
+var svg = d3.select("body")
+.append("svg")
+.attr("width", width)
+.attr("height", height)
 
 
-            var nodeExit = node.exit()
+var g = d3.select("svg")
+.append("g")
+.attr("transform", "translate(" + width / 2 + "," + height / 2 + ")")
 
-            var enterNode_ini = nodeEnter.append("g")
-                .on("click", click)
-                .attr("class", "node")
-                .attr("transform", function(d) {
-                    return "translate(" + project(source.x, source.y) + ")"
-                })
 
-            enterNode_ini.append("circle")
-                .attr("r", 8)
-                .attr("fill", function(d) {
-                    if (d.depth == 0) {
-                        return d3.rgb(237, 121, 128)
-                    }
-                    if (d.depth == 1) {
-                        var yellow = d3.rgb(248, 197, 171)
-                        return yellow.darker(d.data.value / 2000000000)
-                    }
-                    if (d.depth == 2) {
-                        var red = d3.rgb(199, 232, 250)
-                        return red.darker(d.data.value / 2000000000)
-                    } else {
-                        var blue = d3.rgb(151, 206, 162)
-                        return blue.darker(d.data.value / 200000000)
+	var tree = d3.tree()
+.size([width / 4, height / 4])
+	.separation(function(a, b) {
+		return (a.parent == b.parent ? 1 : 2) / a.depth;
+	})
 
-                    }
-                })
+var stratify = d3.stratify()
+	.parentId(function(d) {
+		return d.id.substring(0, d.id.lastIndexOf("."))
+	})
 
-            // enterNode_ini.append("text")
-            //     .attr("dy", "-20")
-            //     .attr("x", function(d) {
-            //         return d.x < 180 === !d.children ? 1 : -1
-            //     })
-            //     .text(function(d) {
-            //         return d.id.substring(d.id.lastIndexOf(".") + 1);
-            //     })
-            //     // .attr("transform", function(d) { return "rotate(" + (d.x < 180 ? d.x - 90 : d.x + 90) + ")"; })
-            enterNode_ini.append('text')
-                .attr("dy", ".35em")
-                .attr("x", function(d) {
-                    return d.children || d._children ? -13 : 13;
-                })
-                .attr("text-anchor", function(d) {
-                    return d.children || d._children ? "end" : "start"
-                })
-                .style("fill", function(d) {
-                    var textcolor = d3.rgb("lightgrey")
-                    return textcolor.darker(d.data.rate)
-                })
-                .style("font-size", function(d) {
-                    return d.data.rate * 5
-                })
-                .attr("transform", function(d) {
-                    console.log(d.id)
-                    console.log(d.x)
-                    return "rotate(" + d.x * 2 + ")"
-                })
-                .text(function(d) {
-                    return d.id.substring(d.id.lastIndexOf(".") + 1)
-                })
-            var entereNode = enterNode_ini.merge(node)
 
-            entereNode.transition()
-                .duration(750)
-                .attr("transform", function(d, i) {
+// return "M" + project(d.x, d.y) +
+//     "C" + project(d.x, (d.y + d.parent.y) / 2) +
+//     " " + project(d.parent.x, (d.y + d.parent.y) / 2) +
+//     " " + project(d.parent.x, d.parent.y);
+function diagonal(s, d) {
 
-                    return "translate(" + project(d.x, d.y) + ")"
+	// path = `M ${s.x} ${s.x}
+	// C ${(s.y + d.y) / 2} ${s.x},
+	//   ${(s.y + d.y) / 2} ${d.x},
+	//   ${d.y} ${d.x}`
 
-                })
+	path = "M" + project(s.x, s.y) +
+		"C" + project(s.x, (s.y + d.y) / 2) +
+		" " + project(d.x, (s.y + d.y) / 2) +
+		" " + project(d.x, d.y);
 
-            var exitNode = nodeExit.transition()
-                .duration(750)
-                .attr("transform", function(d) {
-                    return "translate(" + project(source.x, source.y) + ")"
-                })
-                .remove()
+	return path
+}
 
-            exitNode.select("circle")
-                .attr("r", 0)
+function project(x, y) {
+	var angle = (0.953 * x - 90) / 180 * Math.PI
+		var radius = y
+		return [radius * Math.cos(angle), radius * Math.sin(angle)]
+}
 
-            var link = g.selectAll(".link")
-                .data(treedata.descendants().slice(1), function(d) {
-                    return d.id
-                })
+function collapse(d) {
+	if (d.children) {
+		d._children = d.children
+			d._children.forEach(collapse)
+			d.children = null
+	}
+}
 
-            var enterLink = link.enter()
-                .append("path")
-                .attr("class", "link")
-                .attr('d', function(d) {
-                    var o = {
-                        x: source.x0,
-                        y: source.y0
-                    }
-                    return diagonal(o, o)
-                })
+function click(d) {
+	if (d.children) {
+		d._children = d.children;
+		d.children = null;
+	} else {
+		d.children = d._children;
+		d._children = null;
+	}
+	render(d)
+}
 
-            var updateLink = enterLink.merge(link)
+function render(source) {
 
-            updateLink.transition()
-                .duration(750)
-                .attr("d", function(d) {
-                    return diagonal(d, d.parent)
-                })
-                .attr("stroke", function(d) {
-                    if (d.depth == 0) {
-                        return d3.rgb(237, 121, 128)
-                    }
-                    if (d.depth == 1) {
-                        var yellow = d3.rgb(234, 85, 41)
-                        return yellow.darker(d.data.value / 2000000000)
-                    }
-                    if (d.depth == 2) {
-                        var red = d3.rgb(199, 232, 250)
-                        return red.darker(d.data.value / 2000000000)
-                    } else {
-                        var blue = d3.rgb(151, 206, 162)
-                        return blue.darker(d.data.value / 200000000)
+	var treedata = tree(root)
+		var nodes = treedata.descendants()
+		nodes.forEach(function(d) {
+			d.x0 = d.x
+				d.y0 = d.y
 
-                    }
-                })
-
-            var removeLink = link.exit().transition()
-                .duration(750)
-                .remove()
-                .attr("d", function(d) {
-                    var o = {
-                        x: source.x,
-                        y: source.y
-                    }
-                    return diagonal(o, o)
-                })
-                .remove()
+		})
 
 
 
+	var node = g.selectAll(".node")
+		.data(nodes, function(d) {
+			return d.id || (d.id = ++i)
+		})
 
-        }
-
-
-        d3.csv("movie_metadata_boxoffice.csv", function(error, data) {
-            if (error) throw error
-            root = stratify(data)
-                // root.descendants().forEach(function(d, i) {
-                //     if (i > 0 && i <= 20) {
-                //         d.x = i * 9
-                //     }
-
-            // })
-            root.children.forEach(collapse);
-
-            render(root)
+	var nodeEnter = node.enter()
 
 
-        })
-    </script>
-</body>
+		var nodeExit = node.exit()
+
+		var enterNode_ini = nodeEnter.append("g")
+		.on("click", click)
+		.attr("class", "node")
+		.attr("transform", function(d) {
+			return "translate(" + project(source.x, source.y) + ")"
+		})
+
+	enterNode_ini.append("circle")
+		.attr("r", 8)
+		.attr("fill", function(d) {
+			if (d.depth == 0) {
+				return d3.rgb(237, 121, 128)
+			}
+			if (d.depth == 1) {
+				var yellow = d3.rgb(248, 197, 171)
+					return yellow.darker(d.data.value / 2000000000)
+			}
+			if (d.depth == 2) {
+				var red = d3.rgb(199, 232, 250)
+					return red.darker(d.data.value / 2000000000)
+			} else {
+				var blue = d3.rgb(151, 206, 162)
+					return blue.darker(d.data.value / 200000000)
+
+			}
+		})
+
+	// enterNode_ini.append("text")
+	//     .attr("dy", "-20")
+	//     .attr("x", function(d) {
+	//         return d.x < 180 === !d.children ? 1 : -1
+	//     })
+	//     .text(function(d) {
+	//         return d.id.substring(d.id.lastIndexOf(".") + 1);
+	//     })
+	//     // .attr("transform", function(d) { return "rotate(" + (d.x < 180 ? d.x - 90 : d.x + 90) + ")"; })
+	enterNode_ini.append('text')
+		.attr("dy", ".35em")
+		.attr("x", function(d) {
+			return d.children || d._children ? -13 : 13;
+		})
+	.attr("text-anchor", function(d) {
+		return d.children || d._children ? "end" : "start"
+	})
+	.style("fill", function(d) {
+		var textcolor = d3.rgb("lightgrey")
+			return textcolor.darker(d.data.rate)
+	})
+	.style("font-size", function(d) {
+		return d.data.rate * 5
+	})
+	.attr("transform", function(d) {
+		console.log(d.id)
+			console.log(d.x)
+			return "rotate(" + d.x * 2 + ")"
+	})
+	.text(function(d) {
+		return d.id.substring(d.id.lastIndexOf(".") + 1)
+	})
+	var entereNode = enterNode_ini.merge(node)
+
+		entereNode.transition()
+		.duration(750)
+		.attr("transform", function(d, i) {
+
+			return "translate(" + project(d.x, d.y) + ")"
+
+		})
+
+	var exitNode = nodeExit.transition()
+		.duration(750)
+		.attr("transform", function(d) {
+			return "translate(" + project(source.x, source.y) + ")"
+		})
+	.remove()
+
+		exitNode.select("circle")
+		.attr("r", 0)
+
+		var link = g.selectAll(".link")
+		.data(treedata.descendants().slice(1), function(d) {
+			return d.id
+		})
+
+	var enterLink = link.enter()
+		.append("path")
+		.attr("class", "link")
+		.attr('d', function(d) {
+			var o = {
+				x: source.x0,
+				y: source.y0
+			}
+			return diagonal(o, o)
+		})
+
+	var updateLink = enterLink.merge(link)
+
+		updateLink.transition()
+		.duration(750)
+		.attr("d", function(d) {
+			return diagonal(d, d.parent)
+		})
+	.attr("stroke", function(d) {
+		if (d.depth == 0) {
+			return d3.rgb(237, 121, 128)
+		}
+		if (d.depth == 1) {
+			var yellow = d3.rgb(234, 85, 41)
+				return yellow.darker(d.data.value / 2000000000)
+		}
+		if (d.depth == 2) {
+			var red = d3.rgb(199, 232, 250)
+				return red.darker(d.data.value / 2000000000)
+		} else {
+			var blue = d3.rgb(151, 206, 162)
+				return blue.darker(d.data.value / 200000000)
+
+		}
+	})
+
+	var removeLink = link.exit().transition()
+		.duration(750)
+		.remove()
+		.attr("d", function(d) {
+			var o = {
+				x: source.x,
+				y: source.y
+			}
+			return diagonal(o, o)
+		})
+	.remove()
+
+
+
+
+}
+
+
+d3.csv("movie_metadata_boxoffice.csv", function(error, data) {
+	if (error) throw error
+		root = stratify(data)
+			// root.descendants().forEach(function(d, i) {
+			//     if (i > 0 && i <= 20) {
+			//         d.x = i * 9
+			//     }
+
+			// })
+			root.children.forEach(collapse);
+
+	render(root)
+
+
+})
+		</script>
+	</body>
 
 </html>
