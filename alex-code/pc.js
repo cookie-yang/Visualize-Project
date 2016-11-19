@@ -64,22 +64,11 @@ d3.csv('test2-3.csv', function(raw_data) {
 	//         );
 	//     };
 	// };
-	var query = d3.select("#search")[0][0].value;
-	if(query.length>0){
-		new_data =[] ;
-		data = raw_data.map(function(d){
-			if(d["Director"]==query){
-				new_data.push(d);
-			}
-		});
-	}else{
-		new_data = raw_data;
-	}
 
 	var grid = d3.divgrid();
 	grid.columns(["Movie","Gross(M)","Budget(M)","Rate","Director","Actor1","Actor2","Actor3"])
 	d3.select("#grid")
-		.datum(new_data.slice(0,10))
+		.datum(raw_data.slice(0,10))
 		.call(grid)
 		.selectAll(".row")
 		.on({

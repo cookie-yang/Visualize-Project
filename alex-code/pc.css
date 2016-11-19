@@ -1,7 +1,7 @@
-html, body { 
+.content { 
 	height: 100%;
 	margin: 0;
-	padding: 20px;
+	padding: 0 20px;
 	color: #111;
 	font-family: Ubuntu, Helvetica, sans-serif;
 	font-size: 16px;
@@ -39,5 +39,8 @@ a {
 	width: 70px;
 }
 #grid{
+	margin-top:40px;
+}
+#example{
 	margin-top:40px;
 }
