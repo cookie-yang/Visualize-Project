@@ -79,7 +79,7 @@
         }
 
         function project(x, y) {
-            var angle = (0.953 * x - 90) / 180 * Math.PI
+            var angle = (0.953 * x - root.x) / 180 * Math.PI
             var radius = y
             return [radius * Math.cos(angle), radius * Math.sin(angle)]
         }
@@ -106,6 +106,7 @@
         function render(source) {
 
             var treedata = tree(root)
+            console.log(treedata)
             var nodes = treedata.descendants()
             nodes.forEach(function(d) {
                 d.x0 = d.x
@@ -133,7 +134,7 @@
                 })
 
             enterNode_ini.append("circle")
-                .attr("r", 8)
+                .attr("r", 17)
                 .attr("fill", function(d) {
                     if (d.depth == 0) {
                         return d3.rgb(237, 121, 128)
@@ -162,10 +163,10 @@
             //     })
             //     // .attr("transform", function(d) { return "rotate(" + (d.x < 180 ? d.x - 90 : d.x + 90) + ")"; })
             enterNode_ini.append('text')
-                .attr("dy", ".35em")
-                .attr("x", function(d) {
-                    return d.children || d._children ? -13 : 13;
+                .attr("dy", function(d) {
+                    return d.children || d._children ? 10 : -20
                 })
+                .attr("dx", 0)
                 .attr("text-anchor", function(d) {
                     return d.children || d._children ? "end" : "start"
                 })
@@ -174,12 +175,22 @@
                     return textcolor.darker(d.data.rate)
                 })
                 .style("font-size", function(d) {
-                    return d.data.rate * 5
+                    return d.data.rate * 6
                 })
                 .attr("transform", function(d) {
-                    console.log(d.id)
-                    console.log(d.x)
-                    return "rotate(" + d.x * 2 + ")"
+                    var textAngle = 0.953 * d.x - root.x
+                    var absTextAngle = Math.abs(textAngle)
+                    var rightTextAngle
+                    console.log(textAngle)
+                    if (absTextAngle <= 90)
+                        rightTextAngle = textAngle
+                    if (absTextAngle < 180 && absTextAngle > 90)
+                        rightTextAngle = 180 + textAngle
+
+
+                    console.log(rightTextAngle)
+                    return "rotate(" + rightTextAngle + ")"
+                    return "rotate(" + (d.children ? d.x - 90 : d.x + 60) + ")"
                 })
                 .text(function(d) {
                     return d.id.substring(d.id.lastIndexOf(".") + 1)
