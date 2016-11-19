@@ -153,6 +153,15 @@
                     }
                 })
 
+            // enterNode_ini.append("text")
+            //     .attr("dy", "-20")
+            //     .attr("x", function(d) {
+            //         return d.x < 180 === !d.children ? 1 : -1
+            //     })
+            //     .text(function(d) {
+            //         return d.id.substring(d.id.lastIndexOf(".") + 1);
+            //     })
+            //     // .attr("transform", function(d) { return "rotate(" + (d.x < 180 ? d.x - 90 : d.x + 90) + ")"; })
             enterNode_ini.append('text')
                 .attr("dy", function(d) {
                     return d.children || d._children ? 10 : -20
@@ -268,6 +277,12 @@
         d3.csv("movie_metadata_boxoffice.csv", function(error, data) {
             if (error) throw error
             root = stratify(data)
+                // root.descendants().forEach(function(d, i) {
+                //     if (i > 0 && i <= 20) {
+                //         d.x = i * 9
+                //     }
+
+            // })
             root.children.forEach(collapse);
 
             render(root)
