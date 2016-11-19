@@ -4,7 +4,6 @@ var zcolorscale = d3.scale.linear()
 	.range(["brown", "#999", "#999", "steelblue"])
 	.interpolate(d3.interpolateLab);
 
-// d3.select("#search").on("keyup", brush);
 // load csv file and create the chart
 d3.csv('test2-3.csv', function(raw_data) {
 	pcz = d3.parcoords()("#example")
@@ -12,7 +11,6 @@ d3.csv('test2-3.csv', function(raw_data) {
 		.bundlingStrength(0)
 		.smoothness(0.05)
 		.hideAxis(["Movie","dFBlike","Director","Actor1","Actor2","Actor3","win","D","As","Ac"])
-		.bundleDimension("Gross(M)")
 		.showControlPoints(false)
 		.composite("darker")
 		.alpha(0.35)
