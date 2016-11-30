@@ -24,7 +24,7 @@
             stroke-width: 1.5px;
         }
         
-        .toolTip {
+        .toolTip1 {
             position: absolute;
             display: none;
             min-width: 80px;
@@ -54,7 +54,7 @@
 
         var tooltip = d3.select("body")
             .append("div")
-            .attr("class", "toolTip")
+            .attr("class", "toolTip1")
 
         var g = d3.select("svg")
             .append("g")
@@ -208,9 +208,7 @@
                     if (absTextAngle < 180 && absTextAngle > 90)
                         rightTextAngle = 180 + textAngle
 
-
                     return "rotate(" + rightTextAngle + ")"
-                    return "rotate(" + (d.children ? d.x - 90 : d.x + 60) + ")"
                 })
                 .text(function(d) {
                     return d.id.substring(d.id.lastIndexOf(".") + 1)
@@ -234,6 +232,9 @@
 
             exitNode.select("circle")
                 .attr("r", 0)
+            exitNode.selectAll("text")
+                .style("fill-opacity", 0)
+
 
             var link = g.selectAll(".link")
                 .data(treedata.descendants().slice(1), function(d) {
