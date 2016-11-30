@@ -27,6 +27,17 @@
             stroke-opacity: 0.4;
             stroke-width: 1.5px;
         }
+        
+        .toolTip {
+            position: absolute;
+            display: none;
+            min-width: 80px;
+            height: auto;
+            background: none repeat scroll 0 0 #ffffff;
+            border: 1px solid #6F257F;
+            padding: 14px;
+            text-align: center;
+        }
     </style>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -71,6 +82,9 @@
             .attr("width", width)
             .attr("height", height)
 
+        var tooltip = d3.select("body")
+            .append("div")
+            .attr("class", "toolTip")
 
         var g = d3.select("svg")
             .append("g")
@@ -89,8 +103,16 @@
             })
 
 
-
+        // return "M" + project(d.x, d.y) +
+        //     "C" + project(d.x, (d.y + d.parent.y) / 2) +
+        //     " " + project(d.parent.x, (d.y + d.parent.y) / 2) +
+        //     " " + project(d.parent.x, d.parent.y);
         function diagonal(s, d) {
+
+            // path = `M ${s.x} ${s.x}
+            // C ${(s.y + d.y) / 2} ${s.x},
+            //   ${(s.y + d.y) / 2} ${d.x},
+            //   ${d.y} ${d.x}`
 
             path = "M" + project(s.x, s.y) +
                 "C" + project(s.x, (s.y + d.y) / 2) +
@@ -101,7 +123,7 @@
         }
 
         function project(x, y) {
-            var angle = (0.953 * x - 90) / 180 * Math.PI
+            var angle = (0.953 * x - root.x) / 180 * Math.PI
             var radius = y
             return [radius * Math.cos(angle), radius * Math.sin(angle)]
         }
@@ -128,7 +150,6 @@
         function render(source) {
 
             var treedata = tree(root)
-            console.log(treedata)
             var nodes = treedata.descendants()
             nodes.forEach(function(d) {
                 d.x0 = d.x
@@ -174,7 +195,25 @@
 
                     }
                 })
-
+                .on("mousemove", function(d) {
+                    tooltip
+                        .style("left", d3.event.pageX - 50 + "px")
+                        .style("top", d3.event.pageY - 70 + "px")
+                        .style("display", "inline-block")
+                        .html("$" + (d.data.value / 1000000).toFixed(2) + " " + "M" + "<br>" + "Rate:" + d.data.rate1)
+                })
+                .on("mouseout", function(d) {
+                    tooltip.style("display", "none");
+                })
+                // enterNode_ini.append("text")
+                //     .attr("dy", "-20")
+                //     .attr("x", function(d) {
+                //         return d.x < 180 === !d.children ? 1 : -1
+                //     })
+                //     .text(function(d) {
+                //         return d.id.substring(d.id.lastIndexOf(".") + 1);
+                //     })
+                //     // .attr("transform", function(d) { return "rotate(" + (d.x < 180 ? d.x - 90 : d.x + 90) + ")"; })
             enterNode_ini.append('text')
                 .attr("dy", function(d) {
                     return d.children || d._children ? 10 : -20
@@ -188,20 +227,18 @@
                     return textcolor.darker(d.data.rate)
                 })
                 .style("font-size", function(d) {
-                    return d.data.rate * 8
+                    return d.data.rate * 6
                 })
                 .attr("transform", function(d) {
-                    var textAngle = 0.953 * d.x - 90
+                    var textAngle = 0.953 * d.x - root.x
                     var absTextAngle = Math.abs(textAngle)
                     var rightTextAngle
-                    console.log(textAngle)
                     if (absTextAngle <= 90)
                         rightTextAngle = textAngle
                     if (absTextAngle < 180 && absTextAngle > 90)
                         rightTextAngle = 180 + textAngle
 
 
-                    console.log(rightTextAngle)
                     return "rotate(" + rightTextAngle + ")"
                     return "rotate(" + (d.children ? d.x - 90 : d.x + 60) + ")"
                 })
@@ -290,6 +327,12 @@
         d3.csv("movie_metadata_boxoffice.csv", function(error, data) {
             if (error) throw error
             root = stratify(data)
+                // root.descendants().forEach(function(d, i) {
+                //     if (i > 0 && i <= 20) {
+                //         d.x = i * 9
+                //     }
+
+            // })
             root.children.forEach(collapse);
 
             render(root)
