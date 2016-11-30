@@ -1,790 +1,790 @@
-id,value,rate,,,rate1,,
-BoxOffice,4000000000,1.8,,,7.182800274,2.982800274,13.42260124
-BoxOffice.1996,1981753767,1.8,,,6.792857143,2.592857143,11.66785714
-BoxOffice.1997,2287117535,1.8,,,6.792857143,2.592857143,11.66785714
-BoxOffice.1998,2143029286,1.8,,,6.808333333,2.608333333,11.7375
-BoxOffice.1999,2456515786,1.8,,,6.84,2.64,11.88
-BoxOffice.2000,2338908844,1.8,,,6.823076923,2.623076923,11.80384615
-BoxOffice.2001,1470813133,1.8,,,6.728571429,2.528571429,11.37857143
-BoxOffice.2002,3301704516,2.4,,,8.061538462,3.861538462,17.37692308
-BoxOffice.2003,2926077890,1.8,,,6.833333333,2.633333333,11.85
-BoxOffice.2004,828865315,1.8,,,6.95,2.75,12.375
-BoxOffice.2005,3147697801,2.4,,,8.0375,3.8375,17.26875
-BoxOffice.2006,2999158651,1.8,,,6.8,2.6,11.7
-BoxOffice.2007,3496696077,1.8,,,7,2.8,12.6
-BoxOffice.2008,1419354904,1.8,,,6.95,2.75,12.375
-BoxOffice.2009,3914574797,2.4,,,7.953846154,3.753846154,16.89230769
-BoxOffice.2010,3365384556,1.8,,,6.714285714,2.514285714,11.31428571
-BoxOffice.2011,701893762,1.8,,,7.05,2.85,12.825
-BoxOffice.2012,4188138173,2.4,,,7.857142857,3.657142857,16.45714286
-BoxOffice.2013,3639212512,1.8,,,7.353333333,3.153333333,14.19
-BoxOffice.2014,3718084454,1.8,,,7.264285714,3.064285714,13.78928571
-BoxOffice.2015,4154307349,1.8,,,7.313333333,3.113333333,14.01
-BoxOffice.1996.Action,1056013549,1.8,,,7.18,2.98,13.41
-BoxOffice.1996.Adventure,1045229032,1.8,,,6.68,2.48,11.16
-BoxOffice.1996.Animation,190561206,1.8,,,6.6,2.4,10.8
-BoxOffice.1996.Comedy,282390167,1.8,,,6.45,2.25,10.125
-BoxOffice.1996.Crime,245154986,1.8,,,7,2.8,12.6
-BoxOffice.1996.Drama,568305283,1.8,,,6.6625,2.4625,11.08125
-BoxOffice.1996.Fantasy,104632573,1.2,,,6.4,2.2,9.9
-BoxOffice.1996.Horror,103001286,1.8,,,7.2,3,13.5
-BoxOffice.1996.Mystery,103001286,1.8,,,7.2,3,13.5
-BoxOffice.1996.Romance,128769345,1.2,,,5.6,1.4,6.3
-BoxOffice.1996.Thriller,136448821,1.8,,,6.6,2.4,10.8
-BoxOffice.1997.Action,720271443,1.8,,,6.48,2.28,10.26
-BoxOffice.1997.Adventure,757106120,1.8,,,6.7,2.5,11.25
-BoxOffice.1997.Comedy,705985581,1.8,,,7.116666667,2.916666667,13.125
-BoxOffice.1997.Crime,213312938,1.8,,,7.05,2.85,12.825
-BoxOffice.1997.Drama,907163611,2.4,,,7.625,3.425,15.4125
-BoxOffice.1997.Fantasy,181395380,1.8,,,6.8,2.6,11.7
-BoxOffice.1997.Horror,101334374,1.2,,,6.1,1.9,8.55
-BoxOffice.1997.Mystery,202188209,1.8,,,6.75,2.55,11.475
-BoxOffice.1997.Romance,785477414,1.8,,,7,2.8,12.6
-BoxOffice.1998.Action,799431229,1.8,,,7.04,2.84,12.78
-BoxOffice.1998.Adventure,686694054,1.8,,,6.75,2.55,11.475
-BoxOffice.1998.Animation,485120663,1.8,,,6.9,2.7,12.15
-BoxOffice.1998.Biography,135014968,1.8,,,6.7,2.5,11.25
-BoxOffice.1998.Comedy,858477394,1.8,,,6.66,2.46,11.07
-BoxOffice.1998.Crime,241279248,1.8,,,6.95,2.75,12.375
-BoxOffice.1998.Drama,597913492,1.8,,,7.325,3.125,14.0625
-BoxOffice.1998.Family,144156464,0.6,,,5.3,1.1,4.95
-BoxOffice.1998.Romance,176483808,1.8,,,7.1,2.9,13.05
-BoxOffice.1998.Sport,161487252,1.2,,,6.1,1.9,8.55
-BoxOffice.1999.Action,1092003420,1.8,,,6.6,2.4,10.8
-BoxOffice.1999.Adventure,1192713380,1.8,,,6.7,2.5,11.25
-BoxOffice.1999.Animation,245823397,2.4,,,7.9,3.7,16.65
-BoxOffice.1999.Comedy,685396097,1.2,,,5.825,1.625,7.3125
-BoxOffice.1999.Crime,253536605,2.4,,,7.45,3.25,14.625
-BoxOffice.1999.Drama,709788924,2.4,,,7.7,3.5,15.75
-BoxOffice.1999.Mystery,410236906,1.8,,,7.25,3.05,13.725
-BoxOffice.1999.Romance,152149590,1.2,,,5.5,1.3,5.85
-BoxOffice.1999.Sci-Fi,171383253,3,,,8.7,4.5,20.25
-BoxOffice.2000.Action,996359677,1.8,,,6.966666667,2.766666667,12.45
-BoxOffice.2000.Adventure,1051999544,1.8,,,6.725,2.525,11.3625
-BoxOffice.2000.Animation,137748063,1.8,,,6.5,2.3,10.35
-BoxOffice.2000.Biography,125548685,1.8,,,7.3,3.1,13.95
-BoxOffice.2000.Comedy,566144103,1.2,,,5.566666667,1.366666667,6.15
-BoxOffice.2000.Crime,124107476,2.4,,,7.6,3.4,15.3
-BoxOffice.2000.Drama,954395675,1.8,,,7.2,3,13.5
-BoxOffice.2000.Family,260031035,1.2,,,6,1.8,8.1
-BoxOffice.2000.Fantasy,338175485,1.8,,,6.5,2.3,10.35
-BoxOffice.2000.Romance,123307945,0,,,4.3,0.1,0.45
-BoxOffice.2001.Action,313837577,3,,,8.8,4.6,20.7
-BoxOffice.2001.Adventure,881446897,3,,,8.5,4.3,19.35
-BoxOffice.2001.Animation,567609320,2.4,,,8.2,4,18
-BoxOffice.2001.Biography,176882481,2.4,,,7.95,3.75,16.875
-BoxOffice.2001.Comedy,36230742,2.4,,,8.1,3.9,17.55
-BoxOffice.2001.Crime,259666807,2.4,,,7.75,3.55,15.975
-BoxOffice.2001.Drama,372758804,2.4,,,7.891666667,3.691666667,16.6125
-BoxOffice.2001.History,108638745,2.4,,,7.7,3.5,15.75
-BoxOffice.2001.Mystery,7219578,2.4,,,8,3.8,17.1
-BoxOffice.2001.Romance,33201661,2.4,,,8.4,4.2,18.9
-BoxOffice.2001.Sci-Fi,727883,2.4,,,8.1,3.9,17.55
-BoxOffice.2001.Thriller,183405771,2.4,,,7.8,3.6,16.2
-BoxOffice.2002.Action,1759763944,1.8,,,6.7,2.5,11.25
-BoxOffice.2002.Adventure,2284102510,1.8,,,6.779166667,2.579166667,11.60625
-BoxOffice.2002.Animation,322158932,1.8,,,7.4,3.2,14.4
-BoxOffice.2002.Biography,164435221,2.4,,,8,3.8,17.1
-BoxOffice.2002.Comedy,778489277,1.2,,,6.225,2.025,9.1125
-BoxOffice.2002.Crime,335119726,2.4,,,7.6,3.4,15.3
-BoxOffice.2002.Drama,227965690,1.8,,,6.7,2.5,11.25
-BoxOffice.2002.Family,503408042,1.8,,,7,2.8,12.6
-BoxOffice.2002.Sci-Fi,227965690,1.8,,,6.7,2.5,11.25
-BoxOffice.2003.Action,1866062531,1.8,,,7,2.8,12.6
-BoxOffice.2003.Adventure,1278195587,2.4,,,8.183333333,3.983333333,17.925
-BoxOffice.2003.Animation,380838870,2.4,,,8.2,4,18
-BoxOffice.2003.Comedy,817573113,1.8,,,6.5625,2.3625,10.63125
-BoxOffice.2003.Crime,127083765,1.2,,,5.9,1.7,7.65
-BoxOffice.2003.Drama,367180540,1.8,,,6.7,2.5,11.25
-BoxOffice.2003.Family,311995949,1.2,,,6.35,2.15,9.675
-BoxOffice.2003.Sci-Fi,703225425,1.8,,,6.5,2.3,10.35
-BoxOffice.2004.Action,328755684,2.4,,,8.033333333,3.833333333,17.25
-BoxOffice.2004.Adventure,515506760,2.4,,,8,3.8,17.1
-BoxOffice.2004.Animation,4710455,2.4,,,8.2,4,18
-BoxOffice.2004.Biography,7588285,2.4,,,8.2,4,18
-BoxOffice.2004.Comedy,13464388,2.4,,,8,3.8,17.1
-BoxOffice.2004.Crime,120765268,2.4,,,7.95,3.75,16.875
-BoxOffice.2004.Drama,233686247,2.4,,,8.064285714,3.864285714,17.38928571
-BoxOffice.2004.Family,249358727,2.4,,,7.8,3.6,16.2
-BoxOffice.2004.Fantasy,34126138,2.4,,,8.3,4.1,18.45
-BoxOffice.2004.History,23472900,2.4,,,8.1,3.9,17.55
-BoxOffice.2004.Horror,13464388,2.4,,,8,3.8,17.1
-BoxOffice.2004.Music,3629758,2.4,,,7.9,3.7,16.65
-BoxOffice.2004.Musical,2921738,2.4,,,7.9,3.7,16.65
-BoxOffice.2004.Romance,5857108,2.4,,,7.95,3.75,16.875
-BoxOffice.2004.Sport,100422786,2.4,,,8.1,3.9,17.55
-BoxOffice.2005.Action,1103000572,1.8,,,7.02,2.82,12.69
-BoxOffice.2005.Adventure,2282813556,1.8,,,7.185714286,2.985714286,13.43571429
-BoxOffice.2005.Animation,456718238,1.2,,,6.333333333,2.133333333,9.6
-BoxOffice.2005.Biography,119518352,2.4,,,7.9,3.7,16.65
-BoxOffice.2005.Comedy,951822324,1.2,,,6.3,2.1,9.45
-BoxOffice.2005.Crime,268447768,1.2,,,6.25,2.05,9.225
-BoxOffice.2005.Drama,119518352,2.4,,,7.9,3.7,16.65
-BoxOffice.2005.Family,581704242,1.8,,,7.25,3.05,13.725
-BoxOffice.2005.Romance,177575142,1.8,,,6.6,2.4,10.8
-BoxOffice.2005.Sci-Fi,234277056,1.8,,,6.5,2.3,10.35
-BoxOffice.2006.Action,1752257951,1.8,,,6.875,2.675,12.0375
-BoxOffice.2006.Adventure,2003116685,1.8,,,6.957142857,2.757142857,12.40714286
-BoxOffice.2006.Animation,597064938,1.8,,,6.75,2.55,11.475
-BoxOffice.2006.Biography,162586036,2.4,,,8,3.8,17.1
-BoxOffice.2006.Comedy,483546350,1.8,,,6.475,2.275,10.2375
-BoxOffice.2006.Crime,132373442,3,,,8.5,4.3,19.35
-BoxOffice.2006.Drama,432299624,2.4,,,7.633333333,3.433333333,15.45
-BoxOffice.2006.Mystery,217536138,1.8,,,6.6,2.4,10.8
-BoxOffice.2006.Thriller,217536138,1.8,,,6.6,2.4,10.8
-BoxOffice.2007.Action,1598353446,1.8,,,6.785714286,2.585714286,11.63571429
-BoxOffice.2007.Adventure,2026975407,1.8,,,6.82,2.62,11.79
-BoxOffice.2007.Animation,927600864,1.8,,,6.675,2.475,11.1375
-BoxOffice.2007.Biography,130127620,2.4,,,7.8,3.6,16.2
-BoxOffice.2007.Comedy,856069744,1.8,,,6.858333333,2.658333333,11.9625
-BoxOffice.2007.Crime,130127620,2.4,,,7.8,3.6,16.2
-BoxOffice.2007.Drama,399879056,1.8,,,7.35,3.15,14.175
-BoxOffice.2007.Family,292000866,2.4,,,7.5,3.3,14.85
-BoxOffice.2007.Horror,256386216,1.8,,,7.2,3,13.5
-BoxOffice.2007.Mystery,227137090,2.4,,,8.1,3.9,17.55
-BoxOffice.2007.Romance,148734225,1.8,,,7,2.8,12.6
-BoxOffice.2008.Action,996620188,2.4,,,8.15,3.95,17.775
-BoxOffice.2008.Adventure,318298180,2.4,,,7.9,3.7,16.65
-BoxOffice.2008.Animation,2283276,2.4,,,8,3.8,17.1
-BoxOffice.2008.Biography,5241254,2.4,,,7.9,3.7,16.65
-BoxOffice.2008.Comedy,7757130,2.4,,,8,3.8,17.1
-BoxOffice.2008.Crime,579743454,2.4,,,7.975,3.775,16.9875
-BoxOffice.2008.Drama,409736332,2.4,,,7.82,3.62,16.29
-BoxOffice.2008.Fantasy,127490802,2.4,,,7.8,3.6,16.2
-BoxOffice.2008.Romance,211271019,2.4,,,7.85,3.65,16.425
-BoxOffice.2008.Sport,26236603,2.4,,,7.9,3.7,16.65
-BoxOffice.2008.Thriller,145000989,2.4,,,7.9,3.7,16.65
-BoxOffice.2008.War,9030581,2.4,,,7.8,3.6,16.2
-BoxOffice.2009.Action,2370207140,1.8,,,6.9375,2.7375,12.31875
-BoxOffice.2009.Adventure,3439011031,1.8,,,6.75625,2.55625,11.503125
-BoxOffice.2009.Animation,512592947,1.2,,,6.4,2.2,9.9
-BoxOffice.2009.Biography,255950375,2.4,,,7.7,3.5,15.75
-BoxOffice.2009.Comedy,396857112,0.6,,,5.2,1,4.5
-BoxOffice.2009.Drama,552574009,1.2,,,6.15,1.95,8.775
-BoxOffice.2009.Family,301956980,2.4,,,7.5,3.3,14.85
-BoxOffice.2010.Action,1088207722,1.8,,,7.14,2.94,13.23
-BoxOffice.2010.Adventure,2817161594,1.8,,,7.107142857,2.907142857,13.08214286
-BoxOffice.2010.Animation,1471390925,2.4,,,7.65,3.45,15.525
-BoxOffice.2010.Comedy,399885425,1.8,,,6.6,2.4,10.8
-BoxOffice.2010.Drama,471554460,1.2,,,6.3,2.1,9.45
-BoxOffice.2010.Family,334185206,1.8,,,6.5,2.3,10.35
-BoxOffice.2010.Romance,148383780,1.2,,,5.5,1.3,5.85
-BoxOffice.2011.Action,327251144,2.4,,,7.666666667,3.466666667,15.6
-BoxOffice.2011.Adventure,146405371,2.4,,,7.8,3.6,16.2
-BoxOffice.2011.Biography,75605492,2.4,,,7.6,3.4,15.3
-BoxOffice.2011.Comedy,136447724,2.4,,,7.8,3.6,16.2
-BoxOffice.2011.Crime,142872577,2.4,,,7.666666667,3.466666667,15.6
-BoxOffice.2011.Documentary,2601847,3,,,8.5,4.3,19.35
-BoxOffice.2011.Drama,491964759,2.4,,,7.914285714,3.714285714,16.71428571
-BoxOffice.2011.Fantasy,56816662,2.4,,,7.7,3.5,15.75
-BoxOffice.2011.Music,2601847,3,,,8.5,4.3,19.35
-BoxOffice.2011.Mystery,7098492,2.4,,,8.4,4.2,18.9
-BoxOffice.2011.Romance,469947,2.4,,,7.7,3.5,15.75
-BoxOffice.2011.Sport,13651662,2.4,,,8.2,4,18
-BoxOffice.2012.Action,1816821983,2.4,,,7.64,3.44,15.48
-BoxOffice.2012.Adventure,3176369763,1.8,,,7.226785714,3.026785714,13.62053571
-BoxOffice.2012.Animation,804379015,1.8,,,7.125,2.925,13.1625
-BoxOffice.2012.Biography,182204440,1.8,,,7.4,3.2,14.4
-BoxOffice.2012.Comedy,218628680,1.8,,,7,2.8,12.6
-BoxOffice.2012.Drama,1045307266,2.4,,,7.616666667,3.416666667,15.375
-BoxOffice.2012.Fantasy,521629909,2.4,,,7.45,3.25,14.625
-BoxOffice.2012.Thriller,448130642,3,,,8.5,4.3,19.35
-BoxOffice.2012.Western,162804648,3,,,8.5,4.3,19.35
-BoxOffice.2013.Action,1497060050,1.8,,,7.15,2.95,13.275
-BoxOffice.2013.Adventure,2961215554,1.8,,,7.321666667,3.121666667,14.0475
-BoxOffice.2013.Animation,1224440110,2.4,,,7.45,3.25,14.625
-BoxOffice.2013.Comedy,677996958,1.8,,,7.025,2.825,12.7125
-BoxOffice.2013.Crime,150368971,1.8,,,7,2.8,12.6
-BoxOffice.2013.Drama,274084951,2.4,,,7.8,3.6,16.2
-BoxOffice.2013.Family,234903076,1.2,,,6.4,2.2,9.9
-BoxOffice.2013.Fantasy,258355354,2.4,,,7.9,3.7,16.65
-BoxOffice.2014.Action,2937880772,1.8,,,7.241666667,3.041666667,13.6875
-BoxOffice.2014.Adventure,3176344663,1.8,,,7.425,3.225,14.5125
-BoxOffice.2014.Biography,350123553,1.8,,,7.3,3.1,13.95
-BoxOffice.2014.Comedy,191616238,1.8,,,7.1,2.9,13.05
-BoxOffice.2014.Drama,187991439,3,,,8.6,4.4,19.8
-BoxOffice.2014.Fantasy,255108370,2.4,,,7.5,3.3,14.85
-BoxOffice.2014.Sci-Fi,337103873,1.8,,,6.7,2.5,11.25
-BoxOffice.2015.Action,2372499223,1.8,,,7.1,2.9,13.05
-BoxOffice.2015.Adventure,2913966568,1.8,,,7.39,3.19,14.355
-BoxOffice.2015.Animation,1039520174,1.8,,,6.916666667,2.716666667,12.225
-BoxOffice.2015.Comedy,353128952,1.8,,,6.6,2.4,10.8
-BoxOffice.2015.Crime,350034110,1.8,,,7.2,3,13.5
-BoxOffice.2015.Drama,613215074,2.4,,,7.55,3.35,15.075
-BoxOffice.2015.Family,201148159,1.8,,,7,2.8,12.6
-BoxOffice.2015.Music,183436380,1.8,,,6.5,2.3,10.35
-BoxOffice.2015.Sci-Fi,281666058,1.8,,,6.6,2.4,10.8
-BoxOffice.1996.Action.Eraser,101228120,1.2,,,6.1,1.9,8.55
-BoxOffice.1996.Action.Independence Day,306124059,1.8,,,6.9,2.7,12.15
-BoxOffice.1996.Action.Mission: Impossible,180965237,1.8,,,7.1,2.9,13.05
-BoxOffice.1996.Action.Star Trek: First Contact,92001027,2.4,,,7.6,3.4,15.3
-BoxOffice.1996.Action.The Rock,134006721,1.8,,,7.4,3.2,14.4
-BoxOffice.1996.Action.Twister,241688385,1.2,,,6.3,2.1,9.45
-BoxOffice.1996.Adventure.Independence Day,306124059,1.8,,,6.9,2.7,12.15
-BoxOffice.1996.Adventure.Mission: Impossible,180965237,1.8,,,7.1,2.9,13.05
-BoxOffice.1996.Adventure.Space Jam,90443603,1.2,,,6.3,2.1,9.45
-BoxOffice.1996.Adventure.Star Trek: First Contact,92001027,2.4,,,7.6,3.4,15.3
-BoxOffice.1996.Adventure.The Rock,134006721,1.8,,,7.4,3.2,14.4
-BoxOffice.1996.Adventure.Twister,241688385,1.2,,,6.3,2.1,9.45
-BoxOffice.1996.Animation.Space Jam,90443603,1.2,,,6.3,2.1,9.45
-BoxOffice.1996.Animation.The Hunchback of Notre Dame,100117603,1.8,,,6.9,2.7,12.15
-BoxOffice.1996.Comedy.Jerry Maguire,153620822,1.8,,,7.3,3.1,13.95
-BoxOffice.1996.Comedy.The Nutty Professor,128769345,1.2,,,5.6,1.4,6.3
-BoxOffice.1996.Crime.A Time to Kill,108706165,1.8,,,7.4,3.2,14.4
-BoxOffice.1996.Crime.Ransom,136448821,1.8,,,6.6,2.4,10.8
-BoxOffice.1996.Drama.A Time to Kill,108706165,1.8,,,7.4,3.2,14.4
-BoxOffice.1996.Drama.Eraser,101228120,1.2,,,6.1,1.9,8.55
-BoxOffice.1996.Drama.Jerry Maguire,153620822,1.8,,,7.3,3.1,13.95
-BoxOffice.1996.Drama.Phenomenon,104632573,1.2,,,6.4,2.2,9.9
-BoxOffice.1996.Drama.The Hunchback of Notre Dame,100117603,1.8,,,6.9,2.7,12.15
-BoxOffice.1996.Fantasy.Phenomenon,104632573,1.2,,,6.4,2.2,9.9
-BoxOffice.1996.Horror.Scream,103001286,1.8,,,7.2,3,13.5
-BoxOffice.1996.Mystery.Scream,103001286,1.8,,,7.2,3,13.5
-BoxOffice.1996.Romance.The Nutty Professor,128769345,1.2,,,5.6,1.4,6.3
-BoxOffice.1996.Thriller.Ransom,136448821,1.8,,,6.6,2.4,10.8
-BoxOffice.1997.Action.Air Force One,172620724,1.2,,,6.4,2.2,9.9
-BoxOffice.1997.Action.Con Air,101087161,1.8,,,6.8,2.6,11.7
-BoxOffice.1997.Action.Face/Off,112225777,1.8,,,7.3,3.1,13.95
-BoxOffice.1997.Action.George of the Jungle,105263257,0.6,,,5.4,1.2,5.4
-BoxOffice.1997.Action.The Lost World: Jurassic Park,229074524,1.8,,,6.5,2.3,10.35
-BoxOffice.1997.Adventure.Air Force One,172620724,1.2,,,6.4,2.2,9.9
-BoxOffice.1997.Adventure.George of the Jungle,105263257,0.6,,,5.4,1.2,5.4
-BoxOffice.1997.Adventure.Men in Black,250147615,1.8,,,7.3,3.1,13.95
-BoxOffice.1997.Adventure.The Lost World: Jurassic Park,229074524,1.8,,,6.5,2.3,10.35
-BoxOffice.1997.Comedy.As Good as It Gets,147637474,2.4,,,7.7,3.5,15.75
-BoxOffice.1997.Comedy.Liar Liar,181395380,1.8,,,6.8,2.6,11.7
-BoxOffice.1997.Comedy.Men in Black,250147615,1.8,,,7.3,3.1,13.95
-BoxOffice.1997.Comedy.My Best Friend's Wedding,126805112,1.2,,,6.3,2.1,9.45
-BoxOffice.1997.Crime.Con Air,101087161,1.8,,,6.8,2.6,11.7
-BoxOffice.1997.Crime.Face/Off,112225777,1.8,,,7.3,3.1,13.95
-BoxOffice.1997.Drama.As Good as It Gets,147637474,2.4,,,7.7,3.5,15.75
-BoxOffice.1997.Drama.Contact,100853835,1.8,,,7.4,3.2,14.4
-BoxOffice.1997.Drama.Titanic,658672302,2.4,,,7.7,3.5,15.75
-BoxOffice.1997.Fantasy.Liar Liar,181395380,1.8,,,6.8,2.6,11.7
-BoxOffice.1997.Horror.Scream 2,101334374,1.2,,,6.1,1.9,8.55
-BoxOffice.1997.Mystery.Contact,100853835,1.8,,,7.4,3.2,14.4
-BoxOffice.1997.Mystery.Scream 2,101334374,1.2,,,6.1,1.9,8.55
-BoxOffice.1997.Romance.My Best Friend's Wedding,126805112,1.2,,,6.3,2.1,9.45
-BoxOffice.1997.Romance.Titanic,658672302,2.4,,,7.7,3.5,15.75
-BoxOffice.1998.Action.Armageddon,201573391,1.8,,,6.6,2.4,10.8
-BoxOffice.1998.Action.Deep Impact,140459099,1.2,,,6.1,1.9,8.55
-BoxOffice.1998.Action.Enemy of the State,111544445,1.8,,,7.3,3.1,13.95
-BoxOffice.1998.Action.Lethal Weapon 4,129734803,1.8,,,6.6,2.4,10.8
-BoxOffice.1998.Action.Saving Private Ryan,216119491,3,,,8.6,4.4,19.8
-BoxOffice.1998.Adventure.A Bug's Life,162792677,1.8,,,7.2,3,13.5
-BoxOffice.1998.Adventure.Armageddon,201573391,1.8,,,6.6,2.4,10.8
-BoxOffice.1998.Adventure.Mulan,120618403,2.4,,,7.5,3.3,14.85
-BoxOffice.1998.Adventure.The Prince of Egypt,101217900,1.8,,,7,2.8,12.6
-BoxOffice.1998.Adventure.The Rugrats Movie,100491683,1.2,,,5.9,1.7,7.65
-BoxOffice.1998.Animation.A Bug's Life,162792677,1.8,,,7.2,3,13.5
-BoxOffice.1998.Animation.Mulan,120618403,2.4,,,7.5,3.3,14.85
-BoxOffice.1998.Animation.The Prince of Egypt,101217900,1.8,,,7,2.8,12.6
-BoxOffice.1998.Animation.The Rugrats Movie,100491683,1.2,,,5.9,1.7,7.65
-BoxOffice.1998.Biography.Patch Adams,135014968,1.8,,,6.7,2.5,11.25
-BoxOffice.1998.Comedy.Doctor Dolittle,144156464,0.6,,,5.3,1.1,4.95
-BoxOffice.1998.Comedy.Patch Adams,135014968,1.8,,,6.7,2.5,11.25
-BoxOffice.1998.Comedy.The Truman Show,125603360,2.4,,,8.1,3.9,17.55
-BoxOffice.1998.Comedy.The Waterboy,161487252,1.2,,,6.1,1.9,8.55
-BoxOffice.1998.Comedy.There's Something About Mary,176483808,1.8,,,7.1,2.9,13.05
-BoxOffice.1998.Comedy.You've Got Mail,115731542,1.8,,,6.5,2.3,10.35
-BoxOffice.1998.Crime.Enemy of the State,111544445,1.8,,,7.3,3.1,13.95
-BoxOffice.1998.Crime.Lethal Weapon 4,129734803,1.8,,,6.6,2.4,10.8
-BoxOffice.1998.Drama.Deep Impact,140459099,1.2,,,6.1,1.9,8.55
-BoxOffice.1998.Drama.Saving Private Ryan,216119491,3,,,8.6,4.4,19.8
-BoxOffice.1998.Drama.The Truman Show,125603360,2.4,,,8.1,3.9,17.55
-BoxOffice.1998.Drama.You've Got Mail,115731542,1.8,,,6.5,2.3,10.35
-BoxOffice.1998.Family.Doctor Dolittle,144156464,0.6,,,5.3,1.1,4.95
-BoxOffice.1998.Romance.There's Something About Mary,176483808,1.8,,,7.1,2.9,13.05
-BoxOffice.1998.Sport.The Waterboy,161487252,1.2,,,6.1,1.9,8.55
-BoxOffice.1999.Action.Austin Powers: The Spy Who Shagged Me,205399422,1.8,,,6.6,2.4,10.8
-BoxOffice.1999.Action.Star Wars: Episode I - The Phantom Menace,474544677,1.8,,,6.5,2.3,10.35
-BoxOffice.1999.Action.The Matrix,171383253,3,,,8.7,4.5,20.25
-BoxOffice.1999.Action.The World Is Not Enough,126930660,1.2,,,6.4,2.2,9.9
-BoxOffice.1999.Action.Wild Wild West,113745408,0.6,,,4.8,0.6,2.7
-BoxOffice.1999.Adventure.Austin Powers: The Spy Who Shagged Me,205399422,1.8,,,6.6,2.4,10.8
-BoxOffice.1999.Adventure.Star Wars: Episode I - The Phantom Menace,474544677,1.8,,,6.5,2.3,10.35
-BoxOffice.1999.Adventure.Stuart Little,140015224,1.2,,,5.9,1.7,7.65
-BoxOffice.1999.Adventure.The World Is Not Enough,126930660,1.2,,,6.4,2.2,9.9
-BoxOffice.1999.Adventure.Toy Story 2,245823397,2.4,,,7.9,3.7,16.65
-BoxOffice.1999.Animation.Toy Story 2,245823397,2.4,,,7.9,3.7,16.65
-BoxOffice.1999.Comedy.Big Daddy,163479795,1.2,,,6.4,2.2,9.9
-BoxOffice.1999.Comedy.Notting Hill,116006080,1.8,,,7,2.8,12.6
-BoxOffice.1999.Comedy.Runaway Bride,152149590,1.2,,,5.5,1.3,5.85
-BoxOffice.1999.Comedy.Stuart Little,140015224,1.2,,,5.9,1.7,7.65
-BoxOffice.1999.Comedy.Wild Wild West,113745408,0.6,,,4.8,0.6,2.7
-BoxOffice.1999.Crime.Double Jeopardy,116735231,1.2,,,6.4,2.2,9.9
-BoxOffice.1999.Crime.The Green Mile,136801374,3,,,8.5,4.3,19.35
-BoxOffice.1999.Drama.Big Daddy,163479795,1.2,,,6.4,2.2,9.9
-BoxOffice.1999.Drama.Notting Hill,116006080,1.8,,,7,2.8,12.6
-BoxOffice.1999.Drama.The Green Mile,136801374,3,,,8.5,4.3,19.35
-BoxOffice.1999.Drama.The Sixth Sense,293501675,2.4,,,8.1,3.9,17.55
-BoxOffice.1999.Mystery.Double Jeopardy,116735231,1.2,,,6.4,2.2,9.9
-BoxOffice.1999.Mystery.The Sixth Sense,293501675,2.4,,,8.1,3.9,17.55
-BoxOffice.1999.Romance.Runaway Bride,152149590,1.2,,,5.5,1.3,5.85
-BoxOffice.1999.Sci-Fi.The Matrix,171383253,3,,,8.7,4.5,20.25
-BoxOffice.2000.Action.Charlie's Angels,125305545,1.2,,,5.5,1.3,5.85
-"BoxOffice.2000.Action.Crouching Tiger, Hidden Dragon",128067808,2.4,,,7.9,3.7,16.65
-BoxOffice.2000.Action.Gladiator,187670866,3,,,8.5,4.3,19.35
-BoxOffice.2000.Action.Mission: Impossible II,215397307,1.2,,,6.1,1.9,8.55
-BoxOffice.2000.Action.The Perfect Storm,182618434,1.2,,,6.4,2.2,9.9
-BoxOffice.2000.Action.X-Men,157299717,1.8,,,7.4,3.2,14.4
-BoxOffice.2000.Adventure.Cast Away,233630478,2.4,,,7.7,3.5,15.75
-BoxOffice.2000.Adventure.Charlie's Angels,125305545,1.2,,,5.5,1.3,5.85
-BoxOffice.2000.Adventure.Dinosaur,137748063,1.8,,,6.5,2.3,10.35
-BoxOffice.2000.Adventure.Mission: Impossible II,215397307,1.2,,,6.1,1.9,8.55
-BoxOffice.2000.Adventure.The Perfect Storm,182618434,1.2,,,6.4,2.2,9.9
-BoxOffice.2000.Adventure.X-Men,157299717,1.8,,,7.4,3.2,14.4
-BoxOffice.2000.Animation.Dinosaur,137748063,1.8,,,6.5,2.3,10.35
-BoxOffice.2000.Biography.Erin Brockovich,125548685,1.8,,,7.3,3.1,13.95
-BoxOffice.2000.Comedy.How the Grinch Stole Christmas,260031035,1.2,,,6,1.8,8.1
-BoxOffice.2000.Comedy.Nutty Professor II: The Klumps,123307945,0,,,4.3,0.1,0.45
-BoxOffice.2000.Comedy.What Women Want,182805123,1.2,,,6.4,2.2,9.9
-BoxOffice.2000.Crime.Traffic,124107476,2.4,,,7.6,3.4,15.3
-BoxOffice.2000.Drama.Cast Away,233630478,2.4,,,7.7,3.5,15.75
-"BoxOffice.2000.Drama.Crouching Tiger, Hidden Dragon",128067808,2.4,,,7.9,3.7,16.65
-BoxOffice.2000.Drama.Erin Brockovich,125548685,1.8,,,7.3,3.1,13.95
-BoxOffice.2000.Drama.Gladiator,187670866,3,,,8.5,4.3,19.35
-BoxOffice.2000.Drama.Traffic,124107476,2.4,,,7.6,3.4,15.3
-BoxOffice.2000.Drama.What Lies Beneath,155370362,1.8,,,6.6,2.4,10.8
-BoxOffice.2000.Family.How the Grinch Stole Christmas,260031035,1.2,,,6,1.8,8.1
-BoxOffice.2000.Fantasy.What Lies Beneath,155370362,1.8,,,6.6,2.4,10.8
-BoxOffice.2000.Fantasy.What Women Want,182805123,1.2,,,6.4,2.2,9.9
-BoxOffice.2000.Romance.Nutty Professor II: The Klumps,123307945,0,,,4.3,0.1,0.45
-BoxOffice.2001.Action.The Lord of the Rings: The Fellowship of the Ring,313837577,3,,,8.8,4.6,20.7
-"BoxOffice.2001.Adventure.Monsters,Inc",289907418,2.4,,,8.1,3.9,17.55
-BoxOffice.2001.Adventure.Shrek,267652016,2.4,,,7.9,3.7,16.65
-BoxOffice.2001.Adventure.Spirited Away,10049886,3,,,8.6,4.4,19.8
-BoxOffice.2001.Adventure.The Lord of the Rings: The Fellowship of the Ring,313837577,3,,,8.8,4.6,20.7
-"BoxOffice.2001.Animation.Monsters, Inc",289907418,2.4,,,8.1,3.9,17.55
-BoxOffice.2001.Animation.Shrek,267652016,2.4,,,7.9,3.7,16.65
-BoxOffice.2001.Animation.Spirited Away,10049886,3,,,8.6,4.4,19.8
-BoxOffice.2001.Biography.A Beautiful Mind,170708996,2.4,,,8.2,4,18
-BoxOffice.2001.Biography.Nowhere in Africa,6173485,2.4,,,7.7,3.5,15.75
-BoxOffice.2001.Comedy.Amlie,33201661,2.4,,,8.4,4.2,18.9
-BoxOffice.2001.Comedy.Hedwig and the Angry Inch,3029081,2.4,,,7.8,3.6,16.2
-BoxOffice.2001.Crime.Ocean's Eleven,183405771,2.4,,,7.8,3.6,16.2
-BoxOffice.2001.Crime.Training Day,76261036,2.4,,,7.7,3.5,15.75
-BoxOffice.2001.Drama.A Beautiful Mind,170708996,2.4,,,8.2,4,18
-BoxOffice.2001.Drama.Black Hawk Down,108638745,2.4,,,7.7,3.5,15.75
-BoxOffice.2001.Drama.Donnie Darko,727883,2.4,,,8.1,3.9,17.55
-BoxOffice.2001.Drama.Hedwig and the Angry Inch,3029081,2.4,,,7.8,3.6,16.2
-BoxOffice.2001.Drama.Mulholland Drive,7219578,2.4,,,8,3.8,17.1
-BoxOffice.2001.Drama.Nowhere in Africa,6173485,2.4,,,7.7,3.5,15.75
-BoxOffice.2001.Drama.Training Day,76261036,2.4,,,7.7,3.5,15.75
-BoxOffice.2001.History.Black Hawk Down,108638745,2.4,,,7.7,3.5,15.75
-BoxOffice.2001.Mystery.Mulholland Drive,7219578,2.4,,,8,3.8,17.1
-BoxOffice.2001.Romance.Amê©lie,33201661,2.4,,,8.4,4.2,18.9
-BoxOffice.2001.Sci-Fi.Donnie Darko,727883,2.4,,,8.1,3.9,17.55
-BoxOffice.2001.Thriller.Ocean's Eleven,183405771,2.4,,,7.8,3.6,16.2
-BoxOffice.2002.Action.Austin Powers in Goldmember,213079163,1.2,,,6.2,2,9
-BoxOffice.2002.Action.Die Another Day,160201106,1.2,,,6.1,1.9,8.55
-BoxOffice.2002.Action.Men in Black II,190418803,1.2,,,6.1,1.9,8.55
-BoxOffice.2002.Action.Spider-Man,403706375,1.8,,,7.3,3.1,13.95
-BoxOffice.2002.Action.Star Wars: Episode II - Attack of the Clones,310675583,1.8,,,6.7,2.5,11.25
-BoxOffice.2002.Action.The Lord of the Rings: The Two Towers,340478898,3,,,8.7,4.5,20.25
-BoxOffice.2002.Action.xXx,141204016,1.2,,,5.8,1.6,7.2
-BoxOffice.2002.Adventure.Die Another Day,160201106,1.2,,,6.1,1.9,8.55
-BoxOffice.2002.Adventure.Harry Potter and the Chamber of Secrets,261970615,1.8,,,7.4,3.2,14.4
-BoxOffice.2002.Adventure.Ice Age,176387405,2.4,,,7.6,3.4,15.3
-BoxOffice.2002.Adventure.Lilo & Stitch,145771527,1.8,,,7.2,3,13.5
-BoxOffice.2002.Adventure.Men in Black II,190418803,1.2,,,6.1,1.9,8.55
-BoxOffice.2002.Adventure.Scooby-Doo,153288182,0.6,,,4.9,0.7,3.15
-BoxOffice.2002.Adventure.Spider-Man,403706375,1.8,,,7.3,3.1,13.95
-BoxOffice.2002.Adventure.Star Wars: Episode II - Attack of the Clones,310675583,1.8,,,6.7,2.5,11.25
-BoxOffice.2002.Adventure.The Lord of the Rings: The Two Towers,340478898,3,,,8.7,4.5,20.25
-BoxOffice.2002.Adventure.xXx,141204016,1.2,,,5.8,1.6,7.2
-BoxOffice.2002.Animation.Ice Age,176387405,2.4,,,7.6,3.4,15.3
-BoxOffice.2002.Animation.Lilo & Stitch,145771527,1.8,,,7.2,3,13.5
-BoxOffice.2002.Biography.Catch Me If You Can,164435221,2.4,,,8,3.8,17.1
-BoxOffice.2002.Comedy.Austin Powers in Goldmember,213079163,1.2,,,6.2,2,9
-BoxOffice.2002.Comedy.Chicago,170684505,1.8,,,7.2,3,13.5
-BoxOffice.2002.Comedy.My Big Fat Greek Wedding,241437427,1.8,,,6.6,2.4,10.8
-BoxOffice.2002.Comedy.Scooby-Doo,153288182,0.6,,,4.9,0.7,3.15
-BoxOffice.2002.Crime.Catch Me If You Can,164435221,2.4,,,8,3.8,17.1
-BoxOffice.2002.Crime.Chicago,170684505,1.8,,,7.2,3,13.5
-BoxOffice.2002.Drama.Signs,227965690,1.8,,,6.7,2.5,11.25
-BoxOffice.2002.Family.Harry Potter and the Chamber of Secrets,261970615,1.8,,,7.4,3.2,14.4
-BoxOffice.2002.Family.My Big Fat Greek Wedding,241437427,1.8,,,6.6,2.4,10.8
-BoxOffice.2002.Sci-Fi.Signs,227965690,1.8,,,6.7,2.5,11.25
-BoxOffice.2003.Action.2 Fast 2 Furious,127083765,1.2,,,5.9,1.7,7.65
-BoxOffice.2003.Action.Bad Boys II,138396624,1.8,,,6.6,2.4,10.8
-BoxOffice.2003.Action.Hulk,132122995,1.2,,,5.7,1.5,6.75
-BoxOffice.2003.Action.Pirates of the Caribbean: The Curse of the Black Pearl,305388685,2.4,,,8.1,3.9,17.55
-BoxOffice.2003.Action.Terminator 3: Rise of the Machines,150350192,1.2,,,6.4,2.2,9.9
-BoxOffice.2003.Action.The Lord of the Rings: The Return of the King,377019252,3,,,8.9,4.7,21.15
-BoxOffice.2003.Action.The Matrix Reloaded,281492479,1.8,,,7.2,3,13.5
-BoxOffice.2003.Action.The Matrix Revolutions,139259759,1.8,,,6.7,2.5,11.25
-BoxOffice.2003.Action.X-Men 2,214948780,2.4,,,7.5,3.3,14.85
-BoxOffice.2003.Adventure.Finding Nemo,380838870,2.4,,,8.2,4,18
-BoxOffice.2003.Adventure.Pirates of the Caribbean: The Curse of the Black Pearl,305388685,2.4,,,8.1,3.9,17.55
-BoxOffice.2003.Adventure.The Lord of the Rings: The Return of the King,377019252,3,,,8.9,4.7,21.15
-BoxOffice.2003.Adventure.X-Men 2,214948780,2.4,,,7.5,3.3,14.85
-BoxOffice.2003.Animation.Finding Nemo,380838870,2.4,,,8.2,4,18
-BoxOffice.2003.Comedy.Bad Boys II,138396624,1.8,,,6.6,2.4,10.8
-BoxOffice.2003.Comedy.Bruce Almighty,242589580,1.8,,,6.7,2.5,11.25
-BoxOffice.2003.Comedy.Cheaper by the Dozen,138614544,1.2,,,5.8,1.6,7.2
-BoxOffice.2003.Comedy.Elf,173381405,1.8,,,6.9,2.7,12.15
-BoxOffice.2003.Comedy.Something's Gotta Give,124590960,1.8,,,6.7,2.5,11.25
-BoxOffice.2003.Crime.2 Fast 2 Furious,127083765,1.2,,,5.9,1.7,7.65
-BoxOffice.2003.Drama.Bruce Almighty,242589580,1.8,,,6.7,2.5,11.25
-BoxOffice.2003.Drama.Something's Gotta Give,124590960,1.8,,,6.7,2.5,11.25
-BoxOffice.2003.Family.Cheaper by the Dozen,138614544,1.2,,,5.8,1.6,7.2
-BoxOffice.2003.Family.Elf,173381405,1.8,,,6.9,2.7,12.15
-BoxOffice.2003.Sci-Fi.Hulk,132122995,1.2,,,5.7,1.5,6.75
-BoxOffice.2003.Sci-Fi.Terminator 3: Rise of the Machines,150350192,1.2,,,6.4,2.2,9.9
-BoxOffice.2003.Sci-Fi.The Matrix Reloaded,281492479,1.8,,,7.2,3,13.5
-BoxOffice.2003.Sci-Fi.The Matrix Revolutions,139259759,1.8,,,6.7,2.5,11.25
-BoxOffice.2004.Action.Kill Bill: Vol 2,66207920,2.4,,,8,3.8,17.1
-BoxOffice.2004.Action.Tae Guk Gi: The Brotherhood of War,1110186,2.4,,,8.1,3.9,17.55
-BoxOffice.2004.Action.The Incredibles,261437578,2.4,,,8,3.8,17.1
-BoxOffice.2004.Adventure.Harry Potter and the Prisoner of Azkaban,249358727,2.4,,,7.8,3.6,16.2
-BoxOffice.2004.Adventure.Howl's Moving Castle,4710455,2.4,,,8.2,4,18
-BoxOffice.2004.Adventure.The Incredibles,261437578,2.4,,,8,3.8,17.1
-BoxOffice.2004.Animation.Howl's Moving Castle,4710455,2.4,,,8.2,4,18
-BoxOffice.2004.Biography.Downfall,5501940,2.4,,,8.3,4.1,18.45
-BoxOffice.2004.Biography.The Sea Inside,2086345,2.4,,,8.1,3.9,17.55
-BoxOffice.2004.Comedy.Shaun of the Dead,13464388,2.4,,,8,3.8,17.1
-BoxOffice.2004.Crime.Crash,54557348,2.4,,,7.9,3.7,16.65
-BoxOffice.2004.Crime.Kill Bill: Vol 2,66207920,2.4,,,8,3.8,17.1
-BoxOffice.2004.Drama.Before Sunset,5792822,2.4,,,8,3.8,17.1
-BoxOffice.2004.Drama.Crash,54557348,2.4,,,7.9,3.7,16.65
-BoxOffice.2004.Drama.Downfall,5501940,2.4,,,8.3,4.1,18.45
-BoxOffice.2004.Drama.Eternal Sunshine of the Spotless Mind,34126138,2.4,,,8.3,4.1,18.45
-BoxOffice.2004.Drama.Hotel Rwanda,23472900,2.4,,,8.1,3.9,17.55
-BoxOffice.2004.Drama.Million Dollar Baby,100422786,2.4,,,8.1,3.9,17.55
-BoxOffice.2004.Drama.Tae Guk Gi: The Brotherhood of War,1110186,2.4,,,8.1,3.9,17.55
-BoxOffice.2004.Drama.The Chorus,3629758,2.4,,,7.9,3.7,16.65
-BoxOffice.2004.Drama.The Notebook,64286,2.4,,,7.9,3.7,16.65
-BoxOffice.2004.Drama.The Sea Inside,2086345,2.4,,,8.1,3.9,17.55
-BoxOffice.2004.Drama.Veer-Zaara,2921738,2.4,,,7.9,3.7,16.65
-BoxOffice.2004.Family.Harry Potter and the Prisoner of Azkaban,249358727,2.4,,,7.8,3.6,16.2
-BoxOffice.2004.Fantasy.Eternal Sunshine of the Spotless Mind,34126138,2.4,,,8.3,4.1,18.45
-BoxOffice.2004.History.Hotel Rwanda,23472900,2.4,,,8.1,3.9,17.55
-BoxOffice.2004.Horror.Shaun of the Dead,13464388,2.4,,,8,3.8,17.1
-BoxOffice.2004.Music.The Chorus,3629758,2.4,,,7.9,3.7,16.65
-BoxOffice.2004.Musical.Veer-Zaara,2921738,2.4,,,7.9,3.7,16.65
-BoxOffice.2004.Romance.Before Sunset,5792822,2.4,,,8,3.8,17.1
-BoxOffice.2004.Romance.The Notebook,64286,2.4,,,7.9,3.7,16.65
-BoxOffice.2004.Sport.Million Dollar Baby,100422786,2.4,,,8.1,3.9,17.55
-BoxOffice.2005.Action.Batman Begins,205343774,2.4,,,8.3,4.1,18.45
-BoxOffice.2005.Action.King Kong,218051260,1.8,,,7.2,3,13.5
-BoxOffice.2005.Action.Mr & Mrs Smith,186336103,1.8,,,6.5,2.3,10.35
-BoxOffice.2005.Action.Star Wars: Episode III - Revenge of the Sith,380262555,2.4,,,7.6,3.4,15.3
-BoxOffice.2005.Action.The Pacifier,113006880,1.2,,,5.5,1.3,5.85
-BoxOffice.2005.Adventure.Batman Begins,205343774,2.4,,,8.3,4.1,18.45
-BoxOffice.2005.Adventure.Charlie and the Chocolate Factory,206456431,1.8,,,6.7,2.5,11.25
-BoxOffice.2005.Adventure.Chicken Little,135381507,1.2,,,5.8,1.6,7.2
-BoxOffice.2005.Adventure.Harry Potter and the Goblet of Fire,289994397,2.4,,,7.6,3.4,15.3
-BoxOffice.2005.Adventure.King Kong,218051260,1.8,,,7.2,3,13.5
-BoxOffice.2005.Adventure.Madagascar,193136719,1.8,,,6.9,2.7,12.15
-BoxOffice.2005.Adventure.Robots,128200012,1.2,,,6.3,2.1,9.45
-BoxOffice.2005.Adventure.Star Wars: Episode III - Revenge of the Sith,380262555,2.4,,,7.6,3.4,15.3
-"BoxOffice.2005.Adventure.The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",291709845,1.8,,,6.9,2.7,12.15
-BoxOffice.2005.Adventure.War of the Worlds,234277056,1.8,,,6.5,2.3,10.35
-BoxOffice.2005.Animation.Chicken Little,135381507,1.2,,,5.8,1.6,7.2
-BoxOffice.2005.Animation.Madagascar,193136719,1.8,,,6.9,2.7,12.15
-BoxOffice.2005.Animation.Robots,128200012,1.2,,,6.3,2.1,9.45
-BoxOffice.2005.Biography.Walk the Line,119518352,2.4,,,7.9,3.7,16.65
-BoxOffice.2005.Comedy.Charlie and the Chocolate Factory,206456431,1.8,,,6.7,2.5,11.25
-BoxOffice.2005.Comedy.Fun with Dick and Jane,110332737,1.2,,,6.1,1.9,8.55
-BoxOffice.2005.Comedy.Hitch,177575142,1.8,,,6.6,2.4,10.8
-BoxOffice.2005.Comedy.Mr & Mrs Smith,186336103,1.8,,,6.5,2.3,10.35
-BoxOffice.2005.Comedy.The Longest Yard,158115031,1.2,,,6.4,2.2,9.9
-BoxOffice.2005.Comedy.The Pacifier,113006880,1.2,,,5.5,1.3,5.85
-BoxOffice.2005.Crime.Fun with Dick and Jane,110332737,1.2,,,6.1,1.9,8.55
-BoxOffice.2005.Crime.The Longest Yard,158115031,1.2,,,6.4,2.2,9.9
-BoxOffice.2005.Drama.Walk the Line,119518352,2.4,,,7.9,3.7,16.65
-BoxOffice.2005.Family.Harry Potter and the Goblet of Fire,289994397,2.4,,,7.6,3.4,15.3
-"BoxOffice.2005.Family.The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",291709845,1.8,,,6.9,2.7,12.15
-BoxOffice.2005.Romance.Hitch,177575142,1.8,,,6.6,2.4,10.8
-BoxOffice.2005.Sci-Fi.War of the Worlds,234277056,1.8,,,6.5,2.3,10.35
-BoxOffice.2006.Action.Casino Royale,167007184,2.4,,,8,3.8,17.1
-BoxOffice.2006.Action.Ice Age: The Meltdown,195329763,1.8,,,6.9,2.7,12.15
-BoxOffice.2006.Action.Mission: Impossible III,133382309,1.8,,,6.9,2.7,12.15
-BoxOffice.2006.Action.Night at the Museum,250863268,1.2,,,6.4,2.2,9.9
-BoxOffice.2006.Action.Pirates of the Caribbean: Dead Man's Chest,423032628,1.8,,,7.3,3.1,13.95
-BoxOffice.2006.Action.Superman Returns,200069408,1.2,,,6.1,1.9,8.55
-BoxOffice.2006.Action.Talladega Nights: The Ballad of Ricky Bobby,148213377,1.8,,,6.6,2.4,10.8
-BoxOffice.2006.Action.X-Men: The Last Stand,234360014,1.8,,,6.8,2.6,11.7
-BoxOffice.2006.Adventure.Cars,244052771,1.8,,,7.2,3,13.5
-BoxOffice.2006.Adventure.Casino Royale,167007184,2.4,,,8,3.8,17.1
-BoxOffice.2006.Adventure.Ice Age: The Meltdown,195329763,1.8,,,6.9,2.7,12.15
-BoxOffice.2006.Adventure.Mission: Impossible III,133382309,1.8,,,6.9,2.7,12.15
-BoxOffice.2006.Adventure.Night at the Museum,250863268,1.2,,,6.4,2.2,9.9
-BoxOffice.2006.Adventure.Over the Hedge,155019340,1.8,,,6.8,2.6,11.7
-BoxOffice.2006.Adventure.Pirates of the Caribbean: Dead Man's Chest,423032628,1.8,,,7.3,3.1,13.95
-BoxOffice.2006.Adventure.Superman Returns,200069408,1.2,,,6.1,1.9,8.55
-BoxOffice.2006.Adventure.X-Men: The Last Stand,234360014,1.8,,,6.8,2.6,11.7
-BoxOffice.2006.Animation.Cars,244052771,1.8,,,7.2,3,13.5
-BoxOffice.2006.Animation.Happy Feet,197992827,1.8,,,6.5,2.3,10.35
-BoxOffice.2006.Animation.Over the Hedge,155019340,1.8,,,6.8,2.6,11.7
-BoxOffice.2006.Biography.The Pursuit of Happyness,162586036,2.4,,,8,3.8,17.1
-BoxOffice.2006.Comedy.Click,137340146,1.2,,,6.4,2.2,9.9
-BoxOffice.2006.Comedy.Happy Feet,197992827,1.8,,,6.5,2.3,10.35
-BoxOffice.2006.Comedy.Talladega Nights: The Ballad of Ricky Bobby,148213377,1.8,,,6.6,2.4,10.8
-BoxOffice.2006.Crime.The Departed,132373442,3,,,8.5,4.3,19.35
-BoxOffice.2006.Drama.Click,137340146,1.2,,,6.4,2.2,9.9
-BoxOffice.2006.Drama.The Departed,132373442,3,,,8.5,4.3,19.35
-BoxOffice.2006.Drama.The Pursuit of Happyness,162586036,2.4,,,8,3.8,17.1
-BoxOffice.2006.Mystery.The Da Vinci Code,217536138,1.8,,,6.6,2.4,10.8
-BoxOffice.2006.Thriller.The Da Vinci Code,217536138,1.8,,,6.6,2.4,10.8
-BoxOffice.2007.Action.Fantastic 4: Rise of the Silver Surfer,131920333,1.2,,,5.6,1.4,6.3
-BoxOffice.2007.Action.Live Free or Die Hard,134520804,1.8,,,7.2,3,13.5
-BoxOffice.2007.Action.Pirates of the Caribbean: At World's End,309404152,1.8,,,7.1,2.9,13.05
-BoxOffice.2007.Action.Rush Hour 3,140080850,1.2,,,6.2,2,9
-BoxOffice.2007.Action.Spider-Man 3,336530303,1.2,,,6.2,2,9
-BoxOffice.2007.Action.The Bourne Ultimatum,227137090,2.4,,,8.1,3.9,17.55
-BoxOffice.2007.Action.Transformers,318759914,1.8,,,7.1,2.9,13.05
-BoxOffice.2007.Adventure.Fantastic 4: Rise of the Silver Surfer,131920333,1.2,,,5.6,1.4,6.3
-BoxOffice.2007.Adventure.Harry Potter and the Order of the Phoenix,292000866,2.4,,,7.5,3.3,14.85
-BoxOffice.2007.Adventure.Live Free or Die Hard,134520804,1.8,,,7.2,3,13.5
-BoxOffice.2007.Adventure.Pirates of the Caribbean: At World's End,309404152,1.8,,,7.1,2.9,13.05
-BoxOffice.2007.Adventure.Shrek the Third,320706665,1.2,,,6.1,1.9,8.55
-BoxOffice.2007.Adventure.Spider-Man 3,336530303,1.2,,,6.2,2,9
-BoxOffice.2007.Adventure.The Simpsons Movie,183132370,1.8,,,7.4,3.2,14.4
-BoxOffice.2007.Adventure.Transformers,318759914,1.8,,,7.1,2.9,13.05
-BoxOffice.2007.Animation.Alvin and the Chipmunks,217326336,0.6,,,5.2,1,4.5
-BoxOffice.2007.Animation.Ratatouille,206435493,2.4,,,8,3.8,17.1
-BoxOffice.2007.Animation.Shrek the Third,320706665,1.2,,,6.1,1.9,8.55
-BoxOffice.2007.Animation.The Simpsons Movie,183132370,1.8,,,7.4,3.2,14.4
-BoxOffice.2007.Biography.American Gangster,130127620,2.4,,,7.8,3.6,16.2
-BoxOffice.2007.Comedy.Alvin and the Chipmunks,217326336,0.6,,,5.2,1,4.5
-BoxOffice.2007.Comedy.Juno,143492840,2.4,,,7.5,3.3,14.85
-BoxOffice.2007.Comedy.Knocked Up,148734225,1.8,,,7,2.8,12.6
-BoxOffice.2007.Comedy.Ratatouille,206435493,2.4,,,8,3.8,17.1
-BoxOffice.2007.Comedy.Rush Hour 3,140080850,1.2,,,6.2,2,9
-BoxOffice.2007.Crime.American Gangster,130127620,2.4,,,7.8,3.6,16.2
-BoxOffice.2007.Drama.I Am Legend,256386216,1.8,,,7.2,3,13.5
-BoxOffice.2007.Drama.Juno,143492840,2.4,,,7.5,3.3,14.85
-BoxOffice.2007.Family.Harry Potter and the Order of the Phoenix,292000866,2.4,,,7.5,3.3,14.85
-BoxOffice.2007.Horror.I Am Legend,256386216,1.8,,,7.2,3,13.5
-BoxOffice.2007.Mystery.The Bourne Ultimatum,227137090,2.4,,,8.1,3.9,17.55
-BoxOffice.2007.Romance.Knocked Up,148734225,1.8,,,7,2.8,12.6
-BoxOffice.2008.Action.Gangster's Paradise: Jerusalema,4958,2.4,,,7.8,3.6,16.2
-BoxOffice.2008.Action.Iron Man,318298180,2.4,,,7.9,3.7,16.65
-BoxOffice.2008.Action.Taken,145000989,2.4,,,7.9,3.7,16.65
-BoxOffice.2008.Action.The Dark Knight,533316061,3,,,9,4.8,21.6
-BoxOffice.2008.Adventure.Iron Man,318298180,2.4,,,7.9,3.7,16.65
-BoxOffice.2008.Animation.Waltz with Bashir,2283276,2.4,,,8,3.8,17.1
-BoxOffice.2008.Biography.Man on Wire,2957978,2.4,,,7.8,3.6,16.2
-BoxOffice.2008.Biography.Waltz with Bashir,2283276,2.4,,,8,3.8,17.1
-BoxOffice.2008.Comedy.In Bruges,7757130,2.4,,,8,3.8,17.1
-BoxOffice.2008.Crime.Changeling,35707327,2.4,,,7.8,3.6,16.2
-BoxOffice.2008.Crime.Gangster's Paradise: Jerusalema,4958,2.4,,,7.8,3.6,16.2
-BoxOffice.2008.Crime.In Bruges,7757130,2.4,,,8,3.8,17.1
-BoxOffice.2008.Crime.Man on Wire,2957978,2.4,,,7.8,3.6,16.2
-BoxOffice.2008.Crime.The Dark Knight,533316061,3,,,9,4.8,21.6
-BoxOffice.2008.Drama.Changeling,35707327,2.4,,,7.8,3.6,16.2
-BoxOffice.2008.Drama.Seven Pounds,69951824,2.4,,,7.7,3.5,15.75
-BoxOffice.2008.Drama.Slumdog Millionaire,141319195,2.4,,,8,3.8,17.1
-BoxOffice.2008.Drama.The Boy in the Striped Pajamas,9030581,2.4,,,7.8,3.6,16.2
-BoxOffice.2008.Drama.The Curious Case of Benjamin Button,127490802,2.4,,,7.8,3.6,16.2
-BoxOffice.2008.Drama.The Wrestler,26236603,2.4,,,7.9,3.7,16.65
-BoxOffice.2008.Fantasy.The Curious Case of Benjamin Button,127490802,2.4,,,7.8,3.6,16.2
-BoxOffice.2008.Romance.Seven Pounds,69951824,2.4,,,7.7,3.5,15.75
-BoxOffice.2008.Romance.Slumdog Millionaire,141319195,2.4,,,8,3.8,17.1
-BoxOffice.2008.Sport.The Wrestler,26236603,2.4,,,7.9,3.7,16.65
-BoxOffice.2008.Thriller.Taken,145000989,2.4,,,7.9,3.7,16.65
-BoxOffice.2008.War.The Boy in the Striped Pajamas,9030581,2.4,,,7.8,3.6,16.2
-BoxOffice.2009.Action.2012,166112167,1.2,,,5.8,1.6,7.2
-BoxOffice.2009.Action.Avatar,760505847,2.4,,,7.9,3.7,16.65
-BoxOffice.2009.Action.Ice Age: Dawn of the Dinosaurs,196573705,1.8,,,7,2.8,12.6
-BoxOffice.2009.Action.Monsters vs Aliens,198332128,1.8,,,6.5,2.3,10.35
-BoxOffice.2009.Action.Sherlock Holmes,209019489,2.4,,,7.6,3.4,15.3
-BoxOffice.2009.Action.Star Trek,257704099,2.4,,,8,3.8,17.1
-BoxOffice.2009.Action.Transformers: Revenge of the Fallen,402076689,1.2,,,6,1.8,8.1
-BoxOffice.2009.Action.X-Men Origins: Wolverine,179883016,1.8,,,6.7,2.5,11.25
-BoxOffice.2009.Adventure.2012,166112167,1.2,,,5.8,1.6,7.2
-BoxOffice.2009.Adventure.Avatar,760505847,2.4,,,7.9,3.7,16.65
-BoxOffice.2009.Adventure.Harry Potter and the Half-Blood Prince,301956980,2.4,,,7.5,3.3,14.85
-BoxOffice.2009.Adventure.Ice Age: Dawn of the Dinosaurs,196573705,1.8,,,7,2.8,12.6
-BoxOffice.2009.Adventure.Monsters vs Aliens,198332128,1.8,,,6.5,2.3,10.35
-BoxOffice.2009.Adventure.Night at the Museum: Battle of the Smithsonian,177243721,1.2,,,5.9,1.7,7.65
-BoxOffice.2009.Adventure.Sherlock Holmes,209019489,2.4,,,7.6,3.4,15.3
-BoxOffice.2009.Adventure.Star Trek,257704099,2.4,,,8,3.8,17.1
-BoxOffice.2009.Adventure.The Twilight Saga: New Moon,296623634,0.6,,,4.6,0.4,1.8
-BoxOffice.2009.Adventure.Transformers: Revenge of the Fallen,402076689,1.2,,,6,1.8,8.1
-BoxOffice.2009.Adventure.Up,292979556,2.4,,,8.3,4.1,18.45
-BoxOffice.2009.Adventure.X-Men Origins: Wolverine,179883016,1.8,,,6.7,2.5,11.25
-BoxOffice.2009.Animation.Alvin and the Chipmunks: The Squeakquel,219613391,0.6,,,4.5,0.3,1.35
-BoxOffice.2009.Animation.Up,292979556,2.4,,,8.3,4.1,18.45
-BoxOffice.2009.Biography.The Blind Side,255950375,2.4,,,7.7,3.5,15.75
-BoxOffice.2009.Comedy.Alvin and the Chipmunks: The Squeakquel,219613391,0.6,,,4.5,0.3,1.35
-BoxOffice.2009.Comedy.Night at the Museum: Battle of the Smithsonian,177243721,1.2,,,5.9,1.7,7.65
-BoxOffice.2009.Drama.The Blind Side,255950375,2.4,,,7.7,3.5,15.75
-BoxOffice.2009.Drama.The Twilight Saga: New Moon,296623634,0.6,,,4.6,0.4,1.8
-BoxOffice.2009.Family.Harry Potter and the Half-Blood Prince,301956980,2.4,,,7.5,3.3,14.85
-BoxOffice.2010.Action.Clash of the Titans,163192114,1.2,,,5.8,1.6,7.2
-BoxOffice.2010.Action.Inception,292568851,3,,,8.8,4.6,20.7
-BoxOffice.2010.Action.Iron Man 2,312057433,1.8,,,7,2.8,12.6
-BoxOffice.2010.Action.Megamind,148337537,1.8,,,7.3,3.1,13.95
-BoxOffice.2010.Action.TRON: Legacy,172051787,1.8,,,6.8,2.6,11.7
-BoxOffice.2010.Adventure.Alice in Wonderland,334185206,1.8,,,6.5,2.3,10.35
-BoxOffice.2010.Adventure.Clash of the Titans,163192114,1.2,,,5.8,1.6,7.2
-BoxOffice.2010.Adventure.How to Train Your Dragon,217387997,2.4,,,8.2,4,18
-BoxOffice.2010.Adventure.Inception,292568851,3,,,8.8,4.6,20.7
-BoxOffice.2010.Adventure.Iron Man 2,312057433,1.8,,,7,2.8,12.6
-BoxOffice.2010.Adventure.Shrek Forever After,238371987,1.2,,,6.4,2.2,9.9
-BoxOffice.2010.Adventure.Tangled,200807262,2.4,,,7.8,3.6,16.2
-BoxOffice.2010.Adventure.The Twilight Saga: Eclipse,300523113,0.6,,,4.9,0.7,3.15
-BoxOffice.2010.Adventure.Toy Story 3,414984497,2.4,,,8.3,4.1,18.45
-BoxOffice.2010.Adventure.TRON: Legacy,172051787,1.8,,,6.8,2.6,11.7
-BoxOffice.2010.Adventure.True Grit,171031347,2.4,,,7.7,3.5,15.75
-BoxOffice.2010.Animation.Despicable Me,251501645,2.4,,,7.7,3.5,15.75
-BoxOffice.2010.Animation.How to Train Your Dragon,217387997,2.4,,,8.2,4,18
-BoxOffice.2010.Animation.Megamind,148337537,1.8,,,7.3,3.1,13.95
-BoxOffice.2010.Animation.Shrek Forever After,238371987,1.2,,,6.4,2.2,9.9
-BoxOffice.2010.Animation.Tangled,200807262,2.4,,,7.8,3.6,16.2
-BoxOffice.2010.Animation.Toy Story 3,414984497,2.4,,,8.3,4.1,18.45
-BoxOffice.2010.Comedy.Despicable Me,251501645,2.4,,,7.7,3.5,15.75
-BoxOffice.2010.Comedy.Little Fockers,148383780,1.2,,,5.5,1.3,5.85
-BoxOffice.2010.Drama.The Twilight Saga: Eclipse,300523113,0.6,,,4.9,0.7,3.15
-BoxOffice.2010.Drama.True Grit,171031347,2.4,,,7.7,3.5,15.75
-BoxOffice.2010.Family.Alice in Wonderland,334185206,1.8,,,6.5,2.3,10.35
-BoxOffice.2010.Romance.Little Fockers,148383780,1.2,,,5.5,1.3,5.85
-BoxOffice.2011.Action.Rise of the Planet of the Apes,176740650,2.4,,,7.6,3.4,15.3
-BoxOffice.2011.Action.The Raid: Redemption,4105123,2.4,,,7.6,3.4,15.3
-BoxOffice.2011.Action.X-Men: First Class,146405371,2.4,,,7.8,3.6,16.2
-BoxOffice.2011.Adventure.X-Men: First Class,146405371,2.4,,,7.8,3.6,16.2
-BoxOffice.2011.Biography.Moneyball,75605492,2.4,,,7.6,3.4,15.3
-BoxOffice.2011.Comedy.50/50,34963967,2.4,,,7.7,3.5,15.75
-BoxOffice.2011.Comedy.Midnight in Paris,56816662,2.4,,,7.7,3.5,15.75
-BoxOffice.2011.Comedy.The Artist,44667095,2.4,,,8,3.8,17.1
-BoxOffice.2011.Crime.Drive,35054909,2.4,,,7.8,3.6,16.2
-BoxOffice.2011.Crime.Headhunters,1196752,2.4,,,7.6,3.4,15.3
-BoxOffice.2011.Crime.The Girl with the Dragon Tattoo,102515793,2.4,,,7.8,3.6,16.2
-BoxOffice.2011.Crime.The Raid: Redemption,4105123,2.4,,,7.6,3.4,15.3
-BoxOffice.2011.Documentary.Samsara,2601847,3,,,8.5,4.3,19.35
-BoxOffice.2011.Drama.50/50,34963967,2.4,,,7.7,3.5,15.75
-BoxOffice.2011.Drama.A Separation,7098492,2.4,,,8.4,4.2,18.9
-BoxOffice.2011.Drama.Drive,35054909,2.4,,,7.8,3.6,16.2
-BoxOffice.2011.Drama.Headhunters,1196752,2.4,,,7.6,3.4,15.3
-BoxOffice.2011.Drama.Moneyball,75605492,2.4,,,7.6,3.4,15.3
-BoxOffice.2011.Drama.Rise of the Planet of the Apes,176740650,2.4,,,7.6,3.4,15.3
-BoxOffice.2011.Drama.The Artist,44667095,2.4,,,8,3.8,17.1
-BoxOffice.2011.Drama.The Girl with the Dragon Tattoo,102515793,2.4,,,7.8,3.6,16.2
-BoxOffice.2011.Drama.Warrior,13651662,2.4,,,8.2,4,18
-BoxOffice.2011.Drama.Weekend,469947,2.4,,,7.7,3.5,15.75
-BoxOffice.2011.Fantasy.Midnight in Paris,56816662,2.4,,,7.7,3.5,15.75
-BoxOffice.2011.Music.Samsara,2601847,3,,,8.5,4.3,19.35
-BoxOffice.2011.Mystery.A Separation,7098492,2.4,,,8.4,4.2,18.9
-BoxOffice.2011.Romance.Weekend,469947,2.4,,,7.7,3.5,15.75
-BoxOffice.2011.Sport.Warrior,13651662,2.4,,,8.2,4,18
-BoxOffice.2012.Action.Men in Black 3,179020854,1.8,,,6.8,2.6,11.7
-BoxOffice.2012.Action.Skyfall,304360277,2.4,,,7.8,3.6,16.2
-BoxOffice.2012.Action.The Amazing Spider-Man,262030663,1.8,,,7,2.8,12.6
-BoxOffice.2012.Action.The Avengers,623279547,2.4,,,8.1,3.9,17.55
-BoxOffice.2012.Action.The Dark Knight Rises,448130642,3,,,8.5,4.3,19.35
-BoxOffice.2012.Adventure.Brave,237282182,1.8,,,7.2,3,13.5
-BoxOffice.2012.Adventure.Ice Age: Continental Drift,161317423,1.8,,,6.6,2.4,10.8
-BoxOffice.2012.Adventure.Madagascar 3: Europe's Most Wanted,216366733,1.8,,,6.9,2.7,12.15
-BoxOffice.2012.Adventure.Men in Black 3,179020854,1.8,,,6.8,2.6,11.7
-BoxOffice.2012.Adventure.Skyfall,304360277,2.4,,,7.8,3.6,16.2
-BoxOffice.2012.Adventure.The Amazing Spider-Man,262030663,1.8,,,7,2.8,12.6
-BoxOffice.2012.Adventure.The Avengers,623279547,2.4,,,8.1,3.9,17.55
-BoxOffice.2012.Adventure.The Hobbit: An Unexpected Journey,303001229,2.4,,,7.9,3.7,16.65
-BoxOffice.2012.Adventure.The Hunger Games,407999255,1.8,,,7.3,3.1,13.95
-BoxOffice.2012.Adventure.The Twilight Saga: Breaking Dawn - Part 2,292298923,1.2,,,5.5,1.3,5.85
-BoxOffice.2012.Adventure.Wreck-It Ralph,189412677,2.4,,,7.8,3.6,16.2
-BoxOffice.2012.Animation.Brave,237282182,1.8,,,7.2,3,13.5
-BoxOffice.2012.Animation.Ice Age: Continental Drift,161317423,1.8,,,6.6,2.4,10.8
-BoxOffice.2012.Animation.Madagascar 3: Europe's Most Wanted,216366733,1.8,,,6.9,2.7,12.15
-BoxOffice.2012.Animation.Wreck-It Ralph,189412677,2.4,,,7.8,3.6,16.2
-BoxOffice.2012.Biography.Lincoln,182204440,1.8,,,7.4,3.2,14.4
-BoxOffice.2012.Comedy.Ted,218628680,1.8,,,7,2.8,12.6
-BoxOffice.2012.Drama.Django Unchained,162804648,3,,,8.5,4.3,19.35
-BoxOffice.2012.Drama.Lincoln,182204440,1.8,,,7.4,3.2,14.4
-BoxOffice.2012.Drama.The Hunger Games,407999255,1.8,,,7.3,3.1,13.95
-BoxOffice.2012.Drama.The Twilight Saga: Breaking Dawn - Part 2,292298923,1.2,,,5.5,1.3,5.85
-BoxOffice.2012.Fantasy.Ted,218628680,1.8,,,7,2.8,12.6
-BoxOffice.2012.Fantasy.The Hobbit: An Unexpected Journey,303001229,2.4,,,7.9,3.7,16.65
-BoxOffice.2012.Thriller.The Dark Knight Rises,448130642,3,,,8.5,4.3,19.35
-BoxOffice.2012.Western.Django Unchained,162804648,3,,,8.5,4.3,19.35
-BoxOffice.2013.Action.Iron Man 3,408992272,1.8,,,7.2,3,13.5
-BoxOffice.2013.Action.Man of Steel,291021565,1.8,,,7.2,3,13.5
-BoxOffice.2013.Action.Star Trek Into Darkness,228756232,2.4,,,7.8,3.6,16.2
-BoxOffice.2013.Action.The Heat,159578352,1.8,,,6.6,2.4,10.8
-BoxOffice.2013.Action.Thor: The Dark World,206360018,1.8,,,7.1,2.9,13.05
-BoxOffice.2013.Action.World War Z,202351611,1.8,,,7,2.8,12.6
-BoxOffice.2013.Adventure.Frozen,400736600,2.4,,,7.6,3.4,15.3
-BoxOffice.2013.Adventure.Gravity,274084951,2.4,,,7.8,3.6,16.2
-BoxOffice.2013.Adventure.Iron Man 3,408992272,1.8,,,7.2,3,13.5
-BoxOffice.2013.Adventure.Man of Steel,291021565,1.8,,,7.2,3,13.5
-BoxOffice.2013.Adventure.Monsters University,268488329,1.8,,,7.3,3.1,13.95
-BoxOffice.2013.Adventure.Oz the Great and Powerful,234903076,1.2,,,6.4,2.2,9.9
-BoxOffice.2013.Adventure.Star Trek Into Darkness,228756232,2.4,,,7.8,3.6,16.2
-BoxOffice.2013.Adventure.The Croods,187165546,1.8,,,7.3,3.1,13.95
-BoxOffice.2013.Adventure.The Hobbit: The Desolation of Smaug,258355354,2.4,,,7.9,3.7,16.65
-BoxOffice.2013.Adventure.Thor: The Dark World,206360018,1.8,,,7.1,2.9,13.05
-BoxOffice.2013.Adventure.World War Z,202351611,1.8,,,7,2.8,12.6
-BoxOffice.2013.Animation.Despicable Me 2,368049635,2.4,,,7.5,3.3,14.85
-BoxOffice.2013.Animation.Frozen,400736600,2.4,,,7.6,3.4,15.3
-BoxOffice.2013.Animation.Monsters University,268488329,1.8,,,7.3,3.1,13.95
-BoxOffice.2013.Animation.The Croods,187165546,1.8,,,7.3,3.1,13.95
-BoxOffice.2013.Comedy.Despicable Me 2,368049635,2.4,,,7.5,3.3,14.85
-BoxOffice.2013.Comedy.The Heat,159578352,1.8,,,6.6,2.4,10.8
-BoxOffice.2013.Comedy.We're the Millers,150368971,1.8,,,7,2.8,12.6
-BoxOffice.2013.Crime.We're the Millers,150368971,1.8,,,7,2.8,12.6
-BoxOffice.2013.Drama.Gravity,274084951,2.4,,,7.8,3.6,16.2
-BoxOffice.2013.Family.Oz the Great and Powerful,234903076,1.2,,,6.4,2.2,9.9
-BoxOffice.2013.Fantasy.The Hobbit: The Desolation of Smaug,258355354,2.4,,,7.9,3.7,16.65
-BoxOffice.2014.Action.22 Jump Street,191616238,1.8,,,7.1,2.9,13.05
-BoxOffice.2014.Action.American Sniper,350123553,1.8,,,7.3,3.1,13.95
-BoxOffice.2014.Action.Big Hero 6,222487711,2.4,,,7.9,3.7,16.65
-BoxOffice.2014.Action.Captain America: The Winter Soldier,259746958,2.4,,,7.8,3.6,16.2
-BoxOffice.2014.Action.Dawn of the Planet of the Apes,208543795,2.4,,,7.6,3.4,15.3
-BoxOffice.2014.Action.Guardians of the Galaxy,333130696,2.4,,,8.1,3.9,17.55
-BoxOffice.2014.Action.Maleficent,241407328,1.8,,,7,2.8,12.6
-BoxOffice.2014.Action.Teenage Mutant Ninja Turtles,190871240,1.2,,,5.9,1.7,7.65
-BoxOffice.2014.Action.The Amazing Spider-Man 2,202853933,1.8,,,6.7,2.5,11.25
-BoxOffice.2014.Action.The Lego Movie,257756197,2.4,,,7.8,3.6,16.2
-BoxOffice.2014.Action.Transformers: Age of Extinction,245428137,1.2,,,5.7,1.5,6.75
-BoxOffice.2014.Action.X-Men: Days of Future Past,233914986,2.4,,,8,3.8,17.1
-BoxOffice.2014.Adventure.Big Hero 6,222487711,2.4,,,7.9,3.7,16.65
-BoxOffice.2014.Adventure.Captain America: The Winter Soldier,259746958,2.4,,,7.8,3.6,16.2
-BoxOffice.2014.Adventure.Dawn of the Planet of the Apes,208543795,2.4,,,7.6,3.4,15.3
-BoxOffice.2014.Adventure.Guardians of the Galaxy,333130696,2.4,,,8.1,3.9,17.55
-BoxOffice.2014.Adventure.Interstellar,187991439,3,,,8.6,4.4,19.8
-BoxOffice.2014.Adventure.Maleficent,241407328,1.8,,,7,2.8,12.6
-BoxOffice.2014.Adventure.Teenage Mutant Ninja Turtles,190871240,1.2,,,5.9,1.7,7.65
-BoxOffice.2014.Adventure.The Amazing Spider-Man 2,202853933,1.8,,,6.7,2.5,11.25
-BoxOffice.2014.Adventure.The Hobbit: The Battle of the Five Armies,255108370,2.4,,,7.5,3.3,14.85
-BoxOffice.2014.Adventure.The Hunger Games: Mockingjay - Part 1,337103873,1.8,,,6.7,2.5,11.25
-BoxOffice.2014.Adventure.The Lego Movie,257756197,2.4,,,7.8,3.6,16.2
-BoxOffice.2014.Adventure.Transformers: Age of Extinction,245428137,1.2,,,5.7,1.5,6.75
-BoxOffice.2014.Adventure.X-Men: Days of Future Past,233914986,2.4,,,8,3.8,17.1
-BoxOffice.2014.Biography.American Sniper,350123553,1.8,,,7.3,3.1,13.95
-BoxOffice.2014.Comedy.22 Jump Street,191616238,1.8,,,7.1,2.9,13.05
-BoxOffice.2014.Drama.Interstellar,187991439,3,,,8.6,4.4,19.8
-BoxOffice.2014.Fantasy.The Hobbit: The Battle of the Five Armies,255108370,2.4,,,7.5,3.3,14.85
-BoxOffice.2014.Sci-Fi.The Hunger Games: Mockingjay - Part 1,337103873,1.8,,,6.7,2.5,11.25
-BoxOffice.2015.Action.Ant-Man,180191634,1.8,,,7.4,3.2,14.4
-BoxOffice.2015.Action.Avengers: Age of Ultron,458991599,2.4,,,7.5,3.3,14.85
-BoxOffice.2015.Action.Furious 7,350034110,1.8,,,7.2,3,13.5
-BoxOffice.2015.Action.Jurassic World,652177271,1.8,,,7,2.8,12.6
-BoxOffice.2015.Action.Minions,336029560,1.2,,,6.4,2.2,9.9
-BoxOffice.2015.Action.Mission: Impossible - Rogue Nation,195000874,1.8,,,7.4,3.2,14.4
-BoxOffice.2015.Action.Spectre,200074175,1.8,,,6.8,2.6,11.7
-BoxOffice.2015.Adventure.Ant-Man,180191634,1.8,,,7.4,3.2,14.4
-BoxOffice.2015.Adventure.Avengers: Age of Ultron,458991599,2.4,,,7.5,3.3,14.85
-BoxOffice.2015.Adventure.Home,177343675,1.8,,,6.7,2.5,11.25
-BoxOffice.2015.Adventure.Inside Out,356454367,2.4,,,8.3,4.1,18.45
-BoxOffice.2015.Adventure.Jurassic World,652177271,1.8,,,7,2.8,12.6
-BoxOffice.2015.Adventure.Mission: Impossible - Rogue Nation,195000874,1.8,,,7.4,3.2,14.4
-BoxOffice.2015.Adventure.Spectre,200074175,1.8,,,6.8,2.6,11.7
-BoxOffice.2015.Adventure.The Hunger Games: Mockingjay - Part 2,281666058,1.8,,,6.6,2.4,10.8
-BoxOffice.2015.Adventure.The Martian,228430993,2.4,,,8.1,3.9,17.55
-BoxOffice.2015.Adventure.The Revenant,183635922,2.4,,,8.1,3.9,17.55
-BoxOffice.2015.Animation.Home,177343675,1.8,,,6.7,2.5,11.25
-BoxOffice.2015.Animation.Hotel Transylvania 2,169692572,1.8,,,6.7,2.5,11.25
-BoxOffice.2015.Animation.Inside Out,356454367,2.4,,,8.3,4.1,18.45
-BoxOffice.2015.Animation.Minions,336029560,1.2,,,6.4,2.2,9.9
-BoxOffice.2015.Comedy.Hotel Transylvania 2,169692572,1.8,,,6.7,2.5,11.25
-BoxOffice.2015.Comedy.Pitch Perfect 2,183436380,1.8,,,6.5,2.3,10.35
-BoxOffice.2015.Crime.Furious 7,350034110,1.8,,,7.2,3,13.5
-BoxOffice.2015.Drama.Cinderella,201148159,1.8,,,7,2.8,12.6
-BoxOffice.2015.Drama.The Martian,228430993,2.4,,,8.1,3.9,17.55
-BoxOffice.2015.Drama.The Revenant,183635922,2.4,,,8.1,3.9,17.55
-BoxOffice.2015.Family.Cinderella,201148159,1.8,,,7,2.8,12.6
-BoxOffice.2015.Music.Pitch Perfect 2,183436380,1.8,,,6.5,2.3,10.35
-BoxOffice.2015.Sci-Fi.The Hunger Games: Mockingjay - Part 2,281666058,1.8,,,6.6,2.4,10.8
+id,value,rate,rate1,,,,
+BoxOffice,4000000000,1.8,7.2,,7.182800274,2.982800274,13.42260124
+BoxOffice.1996,1981753767,1.8,6.8,,6.792857143,2.592857143,11.66785714
+BoxOffice.1997,2287117535,1.8,6.8,,6.792857143,2.592857143,11.66785714
+BoxOffice.1998,2143029286,1.8,6.8,,6.808333333,2.608333333,11.7375
+BoxOffice.1999,2456515786,1.8,6.8,,6.84,2.64,11.88
+BoxOffice.2000,2338908844,1.8,6.8,,6.823076923,2.623076923,11.80384615
+BoxOffice.2001,1470813133,1.8,6.7,,6.728571429,2.528571429,11.37857143
+BoxOffice.2002,3301704516,2.4,8.1,,8.061538462,3.861538462,17.37692308
+BoxOffice.2003,2926077890,1.8,6.8,,6.833333333,2.633333333,11.85
+BoxOffice.2004,828865315,1.8,7,,6.95,2.75,12.375
+BoxOffice.2005,3147697801,2.4,8,,8.0375,3.8375,17.26875
+BoxOffice.2006,2999158651,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2007,3496696077,1.8,7,,7,2.8,12.6
+BoxOffice.2008,1419354904,1.8,7,,6.95,2.75,12.375
+BoxOffice.2009,3914574797,2.4,8,,7.953846154,3.753846154,16.89230769
+BoxOffice.2010,3365384556,1.8,6.7,,6.714285714,2.514285714,11.31428571
+BoxOffice.2011,701893762,1.8,7.1,,7.05,2.85,12.825
+BoxOffice.2012,4188138173,2.4,7.9,,7.857142857,3.657142857,16.45714286
+BoxOffice.2013,3639212512,1.8,7.4,,7.353333333,3.153333333,14.19
+BoxOffice.2014,3718084454,1.8,7.3,,7.264285714,3.064285714,13.78928571
+BoxOffice.2015,4154307349,1.8,7.3,,7.313333333,3.113333333,14.01
+BoxOffice.1996.Action,1056013549,1.8,7.2,,7.18,2.98,13.41
+BoxOffice.1996.Adventure,1045229032,1.8,6.7,,6.68,2.48,11.16
+BoxOffice.1996.Animation,190561206,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1996.Comedy,282390167,1.8,6.5,,6.45,2.25,10.125
+BoxOffice.1996.Crime,245154986,1.8,7,,7,2.8,12.6
+BoxOffice.1996.Drama,568305283,1.8,6.7,,6.6625,2.4625,11.08125
+BoxOffice.1996.Fantasy,104632573,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1996.Horror,103001286,1.8,7.2,,7.2,3,13.5
+BoxOffice.1996.Mystery,103001286,1.8,7.2,,7.2,3,13.5
+BoxOffice.1996.Romance,128769345,1.2,5.6,,5.6,1.4,6.3
+BoxOffice.1996.Thriller,136448821,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1997.Action,720271443,1.8,6.5,,6.48,2.28,10.26
+BoxOffice.1997.Adventure,757106120,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.1997.Comedy,705985581,1.8,7.1,,7.116666667,2.916666667,13.125
+BoxOffice.1997.Crime,213312938,1.8,7.1,,7.05,2.85,12.825
+BoxOffice.1997.Drama,907163611,2.4,7.6,,7.625,3.425,15.4125
+BoxOffice.1997.Fantasy,181395380,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.1997.Horror,101334374,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.1997.Mystery,202188209,1.8,6.8,,6.75,2.55,11.475
+BoxOffice.1997.Romance,785477414,1.8,7,,7,2.8,12.6
+BoxOffice.1998.Action,799431229,1.8,7,,7.04,2.84,12.78
+BoxOffice.1998.Adventure,686694054,1.8,6.8,,6.75,2.55,11.475
+BoxOffice.1998.Animation,485120663,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.1998.Biography,135014968,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.1998.Comedy,858477394,1.8,6.7,,6.66,2.46,11.07
+BoxOffice.1998.Crime,241279248,1.8,7,,6.95,2.75,12.375
+BoxOffice.1998.Drama,597913492,1.8,7.3,,7.325,3.125,14.0625
+BoxOffice.1998.Family,144156464,0.6,5.3,,5.3,1.1,4.95
+BoxOffice.1998.Romance,176483808,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.1998.Sport,161487252,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.1999.Action,1092003420,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1999.Adventure,1192713380,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.1999.Animation,245823397,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.1999.Comedy,685396097,1.2,5.8,,5.825,1.625,7.3125
+BoxOffice.1999.Crime,253536605,2.4,7.5,,7.45,3.25,14.625
+BoxOffice.1999.Drama,709788924,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.1999.Mystery,410236906,1.8,7.3,,7.25,3.05,13.725
+BoxOffice.1999.Romance,152149590,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.1999.Sci-Fi,171383253,3,8.7,,8.7,4.5,20.25
+BoxOffice.2000.Action,996359677,1.8,7,,6.966666667,2.766666667,12.45
+BoxOffice.2000.Adventure,1051999544,1.8,6.7,,6.725,2.525,11.3625
+BoxOffice.2000.Animation,137748063,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2000.Biography,125548685,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2000.Comedy,566144103,1.2,5.6,,5.566666667,1.366666667,6.15
+BoxOffice.2000.Crime,124107476,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2000.Drama,954395675,1.8,7.2,,7.2,3,13.5
+BoxOffice.2000.Family,260031035,1.2,6,,6,1.8,8.1
+BoxOffice.2000.Fantasy,338175485,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2000.Romance,123307945,0,4.3,,4.3,0.1,0.45
+BoxOffice.2001.Action,313837577,3,8.8,,8.8,4.6,20.7
+BoxOffice.2001.Adventure,881446897,3,8.5,,8.5,4.3,19.35
+BoxOffice.2001.Animation,567609320,2.4,8.2,,8.2,4,18
+BoxOffice.2001.Biography,176882481,2.4,8,,7.95,3.75,16.875
+BoxOffice.2001.Comedy,36230742,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2001.Crime,259666807,2.4,7.8,,7.75,3.55,15.975
+BoxOffice.2001.Drama,372758804,2.4,7.9,,7.891666667,3.691666667,16.6125
+BoxOffice.2001.History,108638745,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2001.Mystery,7219578,2.4,8,,8,3.8,17.1
+BoxOffice.2001.Romance,33201661,2.4,8.4,,8.4,4.2,18.9
+BoxOffice.2001.Sci-Fi,727883,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2001.Thriller,183405771,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2002.Action,1759763944,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2002.Adventure,2284102510,1.8,6.8,,6.779166667,2.579166667,11.60625
+BoxOffice.2002.Animation,322158932,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2002.Biography,164435221,2.4,8,,8,3.8,17.1
+BoxOffice.2002.Comedy,778489277,1.2,6.2,,6.225,2.025,9.1125
+BoxOffice.2002.Crime,335119726,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2002.Drama,227965690,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2002.Family,503408042,1.8,7,,7,2.8,12.6
+BoxOffice.2002.Sci-Fi,227965690,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2003.Action,1866062531,1.8,7,,7,2.8,12.6
+BoxOffice.2003.Adventure,1278195587,2.4,8.2,,8.183333333,3.983333333,17.925
+BoxOffice.2003.Animation,380838870,2.4,8.2,,8.2,4,18
+BoxOffice.2003.Comedy,817573113,1.8,6.6,,6.5625,2.3625,10.63125
+BoxOffice.2003.Crime,127083765,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.2003.Drama,367180540,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2003.Family,311995949,1.2,6.4,,6.35,2.15,9.675
+BoxOffice.2003.Sci-Fi,703225425,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2004.Action,328755684,2.4,8,,8.033333333,3.833333333,17.25
+BoxOffice.2004.Adventure,515506760,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Animation,4710455,2.4,8.2,,8.2,4,18
+BoxOffice.2004.Biography,7588285,2.4,8.2,,8.2,4,18
+BoxOffice.2004.Comedy,13464388,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Crime,120765268,2.4,8,,7.95,3.75,16.875
+BoxOffice.2004.Drama,233686247,2.4,8.1,,8.064285714,3.864285714,17.38928571
+BoxOffice.2004.Family,249358727,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2004.Fantasy,34126138,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2004.History,23472900,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2004.Horror,13464388,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Music,3629758,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2004.Musical,2921738,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2004.Romance,5857108,2.4,8,,7.95,3.75,16.875
+BoxOffice.2004.Sport,100422786,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2005.Action,1103000572,1.8,7,,7.02,2.82,12.69
+BoxOffice.2005.Adventure,2282813556,1.8,7.2,,7.185714286,2.985714286,13.43571429
+BoxOffice.2005.Animation,456718238,1.2,6.3,,6.333333333,2.133333333,9.6
+BoxOffice.2005.Biography,119518352,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2005.Comedy,951822324,1.2,6.3,,6.3,2.1,9.45
+BoxOffice.2005.Crime,268447768,1.2,6.3,,6.25,2.05,9.225
+BoxOffice.2005.Drama,119518352,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2005.Family,581704242,1.8,7.3,,7.25,3.05,13.725
+BoxOffice.2005.Romance,177575142,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2005.Sci-Fi,234277056,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2006.Action,1752257951,1.8,6.9,,6.875,2.675,12.0375
+BoxOffice.2006.Adventure,2003116685,1.8,7,,6.957142857,2.757142857,12.40714286
+BoxOffice.2006.Animation,597064938,1.8,6.8,,6.75,2.55,11.475
+BoxOffice.2006.Biography,162586036,2.4,8,,8,3.8,17.1
+BoxOffice.2006.Comedy,483546350,1.8,6.5,,6.475,2.275,10.2375
+BoxOffice.2006.Crime,132373442,3,8.5,,8.5,4.3,19.35
+BoxOffice.2006.Drama,432299624,2.4,7.6,,7.633333333,3.433333333,15.45
+BoxOffice.2006.Mystery,217536138,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2006.Thriller,217536138,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2007.Action,1598353446,1.8,6.8,,6.785714286,2.585714286,11.63571429
+BoxOffice.2007.Adventure,2026975407,1.8,6.8,,6.82,2.62,11.79
+BoxOffice.2007.Animation,927600864,1.8,6.7,,6.675,2.475,11.1375
+BoxOffice.2007.Biography,130127620,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2007.Comedy,856069744,1.8,6.9,,6.858333333,2.658333333,11.9625
+BoxOffice.2007.Crime,130127620,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2007.Drama,399879056,1.8,7.4,,7.35,3.15,14.175
+BoxOffice.2007.Family,292000866,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2007.Horror,256386216,1.8,7.2,,7.2,3,13.5
+BoxOffice.2007.Mystery,227137090,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2007.Romance,148734225,1.8,7,,7,2.8,12.6
+BoxOffice.2008.Action,996620188,2.4,8.2,,8.15,3.95,17.775
+BoxOffice.2008.Adventure,318298180,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2008.Animation,2283276,2.4,8,,8,3.8,17.1
+BoxOffice.2008.Biography,5241254,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2008.Comedy,7757130,2.4,8,,8,3.8,17.1
+BoxOffice.2008.Crime,579743454,2.4,8,,7.975,3.775,16.9875
+BoxOffice.2008.Drama,409736332,2.4,7.8,,7.82,3.62,16.29
+BoxOffice.2008.Fantasy,127490802,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2008.Romance,211271019,2.4,7.9,,7.85,3.65,16.425
+BoxOffice.2008.Sport,26236603,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2008.Thriller,145000989,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2008.War,9030581,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2009.Action,2370207140,1.8,6.9,,6.9375,2.7375,12.31875
+BoxOffice.2009.Adventure,3439011031,1.8,6.8,,6.75625,2.55625,11.503125
+BoxOffice.2009.Animation,512592947,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2009.Biography,255950375,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2009.Comedy,396857112,0.6,5.2,,5.2,1,4.5
+BoxOffice.2009.Drama,552574009,1.2,6.2,,6.15,1.95,8.775
+BoxOffice.2009.Family,301956980,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2010.Action,1088207722,1.8,7.1,,7.14,2.94,13.23
+BoxOffice.2010.Adventure,2817161594,1.8,7.1,,7.107142857,2.907142857,13.08214286
+BoxOffice.2010.Animation,1471390925,2.4,7.7,,7.65,3.45,15.525
+BoxOffice.2010.Comedy,399885425,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2010.Drama,471554460,1.2,6.3,,6.3,2.1,9.45
+BoxOffice.2010.Family,334185206,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2010.Romance,148383780,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.2011.Action,327251144,2.4,7.7,,7.666666667,3.466666667,15.6
+BoxOffice.2011.Adventure,146405371,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2011.Biography,75605492,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2011.Comedy,136447724,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2011.Crime,142872577,2.4,7.7,,7.666666667,3.466666667,15.6
+BoxOffice.2011.Documentary,2601847,3,8.5,,8.5,4.3,19.35
+BoxOffice.2011.Drama,491964759,2.4,7.9,,7.914285714,3.714285714,16.71428571
+BoxOffice.2011.Fantasy,56816662,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2011.Music,2601847,3,8.5,,8.5,4.3,19.35
+BoxOffice.2011.Mystery,7098492,2.4,8.4,,8.4,4.2,18.9
+BoxOffice.2011.Romance,469947,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2011.Sport,13651662,2.4,8.2,,8.2,4,18
+BoxOffice.2012.Action,1816821983,2.4,7.6,,7.64,3.44,15.48
+BoxOffice.2012.Adventure,3176369763,1.8,7.2,,7.226785714,3.026785714,13.62053571
+BoxOffice.2012.Animation,804379015,1.8,7.1,,7.125,2.925,13.1625
+BoxOffice.2012.Biography,182204440,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2012.Comedy,218628680,1.8,7,,7,2.8,12.6
+BoxOffice.2012.Drama,1045307266,2.4,7.6,,7.616666667,3.416666667,15.375
+BoxOffice.2012.Fantasy,521629909,2.4,7.5,,7.45,3.25,14.625
+BoxOffice.2012.Thriller,448130642,3,8.5,,8.5,4.3,19.35
+BoxOffice.2012.Western,162804648,3,8.5,,8.5,4.3,19.35
+BoxOffice.2013.Action,1497060050,1.8,7.2,,7.15,2.95,13.275
+BoxOffice.2013.Adventure,2961215554,1.8,7.3,,7.321666667,3.121666667,14.0475
+BoxOffice.2013.Animation,1224440110,2.4,7.5,,7.45,3.25,14.625
+BoxOffice.2013.Comedy,677996958,1.8,7,,7.025,2.825,12.7125
+BoxOffice.2013.Crime,150368971,1.8,7,,7,2.8,12.6
+BoxOffice.2013.Drama,274084951,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2013.Family,234903076,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2013.Fantasy,258355354,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2014.Action,2937880772,1.8,7.2,,7.241666667,3.041666667,13.6875
+BoxOffice.2014.Adventure,3176344663,1.8,7.4,,7.425,3.225,14.5125
+BoxOffice.2014.Biography,350123553,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2014.Comedy,191616238,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.2014.Drama,187991439,3,8.6,,8.6,4.4,19.8
+BoxOffice.2014.Fantasy,255108370,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2014.Sci-Fi,337103873,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2015.Action,2372499223,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.2015.Adventure,2913966568,1.8,7.4,,7.39,3.19,14.355
+BoxOffice.2015.Animation,1039520174,1.8,6.9,,6.916666667,2.716666667,12.225
+BoxOffice.2015.Comedy,353128952,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2015.Crime,350034110,1.8,7.2,,7.2,3,13.5
+BoxOffice.2015.Drama,613215074,2.4,7.6,,7.55,3.35,15.075
+BoxOffice.2015.Family,201148159,1.8,7,,7,2.8,12.6
+BoxOffice.2015.Music,183436380,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2015.Sci-Fi,281666058,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1996.Action.Eraser,101228120,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.1996.Action.Independence Day,306124059,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.1996.Action.Mission: Impossible,180965237,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.1996.Action.Star Trek: First Contact,92001027,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.1996.Action.The Rock,134006721,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.1996.Action.Twister,241688385,1.2,6.3,,6.3,2.1,9.45
+BoxOffice.1996.Adventure.Independence Day,306124059,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.1996.Adventure.Mission: Impossible,180965237,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.1996.Adventure.Space Jam,90443603,1.2,6.3,,6.3,2.1,9.45
+BoxOffice.1996.Adventure.Star Trek: First Contact,92001027,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.1996.Adventure.The Rock,134006721,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.1996.Adventure.Twister,241688385,1.2,6.3,,6.3,2.1,9.45
+BoxOffice.1996.Animation.Space Jam,90443603,1.2,6.3,,6.3,2.1,9.45
+BoxOffice.1996.Animation.The Hunchback of Notre Dame,100117603,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.1996.Comedy.Jerry Maguire,153620822,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.1996.Comedy.The Nutty Professor,128769345,1.2,5.6,,5.6,1.4,6.3
+BoxOffice.1996.Crime.A Time to Kill,108706165,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.1996.Crime.Ransom,136448821,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1996.Drama.A Time to Kill,108706165,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.1996.Drama.Eraser,101228120,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.1996.Drama.Jerry Maguire,153620822,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.1996.Drama.Phenomenon,104632573,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1996.Drama.The Hunchback of Notre Dame,100117603,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.1996.Fantasy.Phenomenon,104632573,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1996.Horror.Scream,103001286,1.8,7.2,,7.2,3,13.5
+BoxOffice.1996.Mystery.Scream,103001286,1.8,7.2,,7.2,3,13.5
+BoxOffice.1996.Romance.The Nutty Professor,128769345,1.2,5.6,,5.6,1.4,6.3
+BoxOffice.1996.Thriller.Ransom,136448821,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1997.Action.Air Force One,172620724,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1997.Action.Con Air,101087161,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.1997.Action.Face/Off,112225777,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.1997.Action.George of the Jungle,105263257,0.6,5.4,,5.4,1.2,5.4
+BoxOffice.1997.Action.The Lost World: Jurassic Park,229074524,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.1997.Adventure.Air Force One,172620724,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1997.Adventure.George of the Jungle,105263257,0.6,5.4,,5.4,1.2,5.4
+BoxOffice.1997.Adventure.Men in Black,250147615,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.1997.Adventure.The Lost World: Jurassic Park,229074524,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.1997.Comedy.As Good as It Gets,147637474,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.1997.Comedy.Liar Liar,181395380,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.1997.Comedy.Men in Black,250147615,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.1997.Comedy.My Best Friend's Wedding,126805112,1.2,6.3,,6.3,2.1,9.45
+BoxOffice.1997.Crime.Con Air,101087161,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.1997.Crime.Face/Off,112225777,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.1997.Drama.As Good as It Gets,147637474,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.1997.Drama.Contact,100853835,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.1997.Drama.Titanic,658672302,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.1997.Fantasy.Liar Liar,181395380,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.1997.Horror.Scream 2,101334374,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.1997.Mystery.Contact,100853835,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.1997.Mystery.Scream 2,101334374,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.1997.Romance.My Best Friend's Wedding,126805112,1.2,6.3,,6.3,2.1,9.45
+BoxOffice.1997.Romance.Titanic,658672302,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.1998.Action.Armageddon,201573391,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1998.Action.Deep Impact,140459099,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.1998.Action.Enemy of the State,111544445,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.1998.Action.Lethal Weapon 4,129734803,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1998.Action.Saving Private Ryan,216119491,3,8.6,,8.6,4.4,19.8
+BoxOffice.1998.Adventure.A Bug's Life,162792677,1.8,7.2,,7.2,3,13.5
+BoxOffice.1998.Adventure.Armageddon,201573391,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1998.Adventure.Mulan,120618403,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.1998.Adventure.The Prince of Egypt,101217900,1.8,7,,7,2.8,12.6
+BoxOffice.1998.Adventure.The Rugrats Movie,100491683,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.1998.Animation.A Bug's Life,162792677,1.8,7.2,,7.2,3,13.5
+BoxOffice.1998.Animation.Mulan,120618403,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.1998.Animation.The Prince of Egypt,101217900,1.8,7,,7,2.8,12.6
+BoxOffice.1998.Animation.The Rugrats Movie,100491683,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.1998.Biography.Patch Adams,135014968,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.1998.Comedy.Doctor Dolittle,144156464,0.6,5.3,,5.3,1.1,4.95
+BoxOffice.1998.Comedy.Patch Adams,135014968,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.1998.Comedy.The Truman Show,125603360,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.1998.Comedy.The Waterboy,161487252,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.1998.Comedy.There's Something About Mary,176483808,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.1998.Comedy.You've Got Mail,115731542,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.1998.Crime.Enemy of the State,111544445,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.1998.Crime.Lethal Weapon 4,129734803,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1998.Drama.Deep Impact,140459099,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.1998.Drama.Saving Private Ryan,216119491,3,8.6,,8.6,4.4,19.8
+BoxOffice.1998.Drama.The Truman Show,125603360,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.1998.Drama.You've Got Mail,115731542,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.1998.Family.Doctor Dolittle,144156464,0.6,5.3,,5.3,1.1,4.95
+BoxOffice.1998.Romance.There's Something About Mary,176483808,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.1998.Sport.The Waterboy,161487252,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.1999.Action.Austin Powers: The Spy Who Shagged Me,205399422,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1999.Action.Star Wars: Episode I - The Phantom Menace,474544677,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.1999.Action.The Matrix,171383253,3,8.7,,8.7,4.5,20.25
+BoxOffice.1999.Action.The World Is Not Enough,126930660,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1999.Action.Wild Wild West,113745408,0.6,4.8,,4.8,0.6,2.7
+BoxOffice.1999.Adventure.Austin Powers: The Spy Who Shagged Me,205399422,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.1999.Adventure.Star Wars: Episode I - The Phantom Menace,474544677,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.1999.Adventure.Stuart Little,140015224,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.1999.Adventure.The World Is Not Enough,126930660,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1999.Adventure.Toy Story 2,245823397,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.1999.Animation.Toy Story 2,245823397,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.1999.Comedy.Big Daddy,163479795,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1999.Comedy.Notting Hill,116006080,1.8,7,,7,2.8,12.6
+BoxOffice.1999.Comedy.Runaway Bride,152149590,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.1999.Comedy.Stuart Little,140015224,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.1999.Comedy.Wild Wild West,113745408,0.6,4.8,,4.8,0.6,2.7
+BoxOffice.1999.Crime.Double Jeopardy,116735231,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1999.Crime.The Green Mile,136801374,3,8.5,,8.5,4.3,19.35
+BoxOffice.1999.Drama.Big Daddy,163479795,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1999.Drama.Notting Hill,116006080,1.8,7,,7,2.8,12.6
+BoxOffice.1999.Drama.The Green Mile,136801374,3,8.5,,8.5,4.3,19.35
+BoxOffice.1999.Drama.The Sixth Sense,293501675,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.1999.Mystery.Double Jeopardy,116735231,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.1999.Mystery.The Sixth Sense,293501675,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.1999.Romance.Runaway Bride,152149590,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.1999.Sci-Fi.The Matrix,171383253,3,8.7,,8.7,4.5,20.25
+BoxOffice.2000.Action.Charlie's Angels,125305545,1.2,5.5,,5.5,1.3,5.85
+"BoxOffice.2000.Action.Crouching Tiger, Hidden Dragon",128067808,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2000.Action.Gladiator,187670866,3,8.5,,8.5,4.3,19.35
+BoxOffice.2000.Action.Mission: Impossible II,215397307,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2000.Action.The Perfect Storm,182618434,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2000.Action.X-Men,157299717,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2000.Adventure.Cast Away,233630478,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2000.Adventure.Charlie's Angels,125305545,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.2000.Adventure.Dinosaur,137748063,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2000.Adventure.Mission: Impossible II,215397307,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2000.Adventure.The Perfect Storm,182618434,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2000.Adventure.X-Men,157299717,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2000.Animation.Dinosaur,137748063,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2000.Biography.Erin Brockovich,125548685,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2000.Comedy.How the Grinch Stole Christmas,260031035,1.2,6,,6,1.8,8.1
+BoxOffice.2000.Comedy.Nutty Professor II: The Klumps,123307945,0,4.3,,4.3,0.1,0.45
+BoxOffice.2000.Comedy.What Women Want,182805123,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2000.Crime.Traffic,124107476,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2000.Drama.Cast Away,233630478,2.4,7.7,,7.7,3.5,15.75
+"BoxOffice.2000.Drama.Crouching Tiger, Hidden Dragon",128067808,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2000.Drama.Erin Brockovich,125548685,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2000.Drama.Gladiator,187670866,3,8.5,,8.5,4.3,19.35
+BoxOffice.2000.Drama.Traffic,124107476,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2000.Drama.What Lies Beneath,155370362,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2000.Family.How the Grinch Stole Christmas,260031035,1.2,6,,6,1.8,8.1
+BoxOffice.2000.Fantasy.What Lies Beneath,155370362,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2000.Fantasy.What Women Want,182805123,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2000.Romance.Nutty Professor II: The Klumps,123307945,0,4.3,,4.3,0.1,0.45
+BoxOffice.2001.Action.The Lord of the Rings: The Fellowship of the Ring,313837577,3,8.8,,8.8,4.6,20.7
+"BoxOffice.2001.Adventure.Monsters,Inc",289907418,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2001.Adventure.Shrek,267652016,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2001.Adventure.Spirited Away,10049886,3,8.6,,8.6,4.4,19.8
+BoxOffice.2001.Adventure.The Lord of the Rings: The Fellowship of the Ring,313837577,3,8.8,,8.8,4.6,20.7
+"BoxOffice.2001.Animation.Monsters, Inc",289907418,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2001.Animation.Shrek,267652016,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2001.Animation.Spirited Away,10049886,3,8.6,,8.6,4.4,19.8
+BoxOffice.2001.Biography.A Beautiful Mind,170708996,2.4,8.2,,8.2,4,18
+BoxOffice.2001.Biography.Nowhere in Africa,6173485,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2001.Comedy.Amlie,33201661,2.4,8.4,,8.4,4.2,18.9
+BoxOffice.2001.Comedy.Hedwig and the Angry Inch,3029081,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2001.Crime.Ocean's Eleven,183405771,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2001.Crime.Training Day,76261036,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2001.Drama.A Beautiful Mind,170708996,2.4,8.2,,8.2,4,18
+BoxOffice.2001.Drama.Black Hawk Down,108638745,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2001.Drama.Donnie Darko,727883,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2001.Drama.Hedwig and the Angry Inch,3029081,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2001.Drama.Mulholland Drive,7219578,2.4,8,,8,3.8,17.1
+BoxOffice.2001.Drama.Nowhere in Africa,6173485,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2001.Drama.Training Day,76261036,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2001.History.Black Hawk Down,108638745,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2001.Mystery.Mulholland Drive,7219578,2.4,8,,8,3.8,17.1
+BoxOffice.2001.Romance.Amê©lie,33201661,2.4,8.4,,8.4,4.2,18.9
+BoxOffice.2001.Sci-Fi.Donnie Darko,727883,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2001.Thriller.Ocean's Eleven,183405771,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2002.Action.Austin Powers in Goldmember,213079163,1.2,6.2,,6.2,2,9
+BoxOffice.2002.Action.Die Another Day,160201106,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2002.Action.Men in Black II,190418803,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2002.Action.Spider-Man,403706375,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2002.Action.Star Wars: Episode II - Attack of the Clones,310675583,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2002.Action.The Lord of the Rings: The Two Towers,340478898,3,8.7,,8.7,4.5,20.25
+BoxOffice.2002.Action.xXx,141204016,1.2,5.8,,5.8,1.6,7.2
+BoxOffice.2002.Adventure.Die Another Day,160201106,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2002.Adventure.Harry Potter and the Chamber of Secrets,261970615,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2002.Adventure.Ice Age,176387405,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2002.Adventure.Lilo & Stitch,145771527,1.8,7.2,,7.2,3,13.5
+BoxOffice.2002.Adventure.Men in Black II,190418803,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2002.Adventure.Scooby-Doo,153288182,0.6,4.9,,4.9,0.7,3.15
+BoxOffice.2002.Adventure.Spider-Man,403706375,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2002.Adventure.Star Wars: Episode II - Attack of the Clones,310675583,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2002.Adventure.The Lord of the Rings: The Two Towers,340478898,3,8.7,,8.7,4.5,20.25
+BoxOffice.2002.Adventure.xXx,141204016,1.2,5.8,,5.8,1.6,7.2
+BoxOffice.2002.Animation.Ice Age,176387405,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2002.Animation.Lilo & Stitch,145771527,1.8,7.2,,7.2,3,13.5
+BoxOffice.2002.Biography.Catch Me If You Can,164435221,2.4,8,,8,3.8,17.1
+BoxOffice.2002.Comedy.Austin Powers in Goldmember,213079163,1.2,6.2,,6.2,2,9
+BoxOffice.2002.Comedy.Chicago,170684505,1.8,7.2,,7.2,3,13.5
+BoxOffice.2002.Comedy.My Big Fat Greek Wedding,241437427,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2002.Comedy.Scooby-Doo,153288182,0.6,4.9,,4.9,0.7,3.15
+BoxOffice.2002.Crime.Catch Me If You Can,164435221,2.4,8,,8,3.8,17.1
+BoxOffice.2002.Crime.Chicago,170684505,1.8,7.2,,7.2,3,13.5
+BoxOffice.2002.Drama.Signs,227965690,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2002.Family.Harry Potter and the Chamber of Secrets,261970615,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2002.Family.My Big Fat Greek Wedding,241437427,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2002.Sci-Fi.Signs,227965690,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2003.Action.2 Fast 2 Furious,127083765,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.2003.Action.Bad Boys II,138396624,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2003.Action.Hulk,132122995,1.2,5.7,,5.7,1.5,6.75
+BoxOffice.2003.Action.Pirates of the Caribbean: The Curse of the Black Pearl,305388685,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2003.Action.Terminator 3: Rise of the Machines,150350192,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2003.Action.The Lord of the Rings: The Return of the King,377019252,3,8.9,,8.9,4.7,21.15
+BoxOffice.2003.Action.The Matrix Reloaded,281492479,1.8,7.2,,7.2,3,13.5
+BoxOffice.2003.Action.The Matrix Revolutions,139259759,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2003.Action.X-Men 2,214948780,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2003.Adventure.Finding Nemo,380838870,2.4,8.2,,8.2,4,18
+BoxOffice.2003.Adventure.Pirates of the Caribbean: The Curse of the Black Pearl,305388685,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2003.Adventure.The Lord of the Rings: The Return of the King,377019252,3,8.9,,8.9,4.7,21.15
+BoxOffice.2003.Adventure.X-Men 2,214948780,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2003.Animation.Finding Nemo,380838870,2.4,8.2,,8.2,4,18
+BoxOffice.2003.Comedy.Bad Boys II,138396624,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2003.Comedy.Bruce Almighty,242589580,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2003.Comedy.Cheaper by the Dozen,138614544,1.2,5.8,,5.8,1.6,7.2
+BoxOffice.2003.Comedy.Elf,173381405,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2003.Comedy.Something's Gotta Give,124590960,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2003.Crime.2 Fast 2 Furious,127083765,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.2003.Drama.Bruce Almighty,242589580,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2003.Drama.Something's Gotta Give,124590960,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2003.Family.Cheaper by the Dozen,138614544,1.2,5.8,,5.8,1.6,7.2
+BoxOffice.2003.Family.Elf,173381405,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2003.Sci-Fi.Hulk,132122995,1.2,5.7,,5.7,1.5,6.75
+BoxOffice.2003.Sci-Fi.Terminator 3: Rise of the Machines,150350192,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2003.Sci-Fi.The Matrix Reloaded,281492479,1.8,7.2,,7.2,3,13.5
+BoxOffice.2003.Sci-Fi.The Matrix Revolutions,139259759,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2004.Action.Kill Bill: Vol 2,66207920,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Action.Tae Guk Gi: The Brotherhood of War,1110186,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2004.Action.The Incredibles,261437578,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Adventure.Harry Potter and the Prisoner of Azkaban,249358727,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2004.Adventure.Howl's Moving Castle,4710455,2.4,8.2,,8.2,4,18
+BoxOffice.2004.Adventure.The Incredibles,261437578,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Animation.Howl's Moving Castle,4710455,2.4,8.2,,8.2,4,18
+BoxOffice.2004.Biography.Downfall,5501940,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2004.Biography.The Sea Inside,2086345,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2004.Comedy.Shaun of the Dead,13464388,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Crime.Crash,54557348,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2004.Crime.Kill Bill: Vol 2,66207920,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Drama.Before Sunset,5792822,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Drama.Crash,54557348,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2004.Drama.Downfall,5501940,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2004.Drama.Eternal Sunshine of the Spotless Mind,34126138,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2004.Drama.Hotel Rwanda,23472900,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2004.Drama.Million Dollar Baby,100422786,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2004.Drama.Tae Guk Gi: The Brotherhood of War,1110186,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2004.Drama.The Chorus,3629758,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2004.Drama.The Notebook,64286,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2004.Drama.The Sea Inside,2086345,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2004.Drama.Veer-Zaara,2921738,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2004.Family.Harry Potter and the Prisoner of Azkaban,249358727,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2004.Fantasy.Eternal Sunshine of the Spotless Mind,34126138,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2004.History.Hotel Rwanda,23472900,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2004.Horror.Shaun of the Dead,13464388,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Music.The Chorus,3629758,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2004.Musical.Veer-Zaara,2921738,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2004.Romance.Before Sunset,5792822,2.4,8,,8,3.8,17.1
+BoxOffice.2004.Romance.The Notebook,64286,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2004.Sport.Million Dollar Baby,100422786,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2005.Action.Batman Begins,205343774,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2005.Action.King Kong,218051260,1.8,7.2,,7.2,3,13.5
+BoxOffice.2005.Action.Mr & Mrs Smith,186336103,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2005.Action.Star Wars: Episode III - Revenge of the Sith,380262555,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2005.Action.The Pacifier,113006880,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.2005.Adventure.Batman Begins,205343774,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2005.Adventure.Charlie and the Chocolate Factory,206456431,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2005.Adventure.Chicken Little,135381507,1.2,5.8,,5.8,1.6,7.2
+BoxOffice.2005.Adventure.Harry Potter and the Goblet of Fire,289994397,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2005.Adventure.King Kong,218051260,1.8,7.2,,7.2,3,13.5
+BoxOffice.2005.Adventure.Madagascar,193136719,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2005.Adventure.Robots,128200012,1.2,6.3,,6.3,2.1,9.45
+BoxOffice.2005.Adventure.Star Wars: Episode III - Revenge of the Sith,380262555,2.4,7.6,,7.6,3.4,15.3
+"BoxOffice.2005.Adventure.The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",291709845,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2005.Adventure.War of the Worlds,234277056,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2005.Animation.Chicken Little,135381507,1.2,5.8,,5.8,1.6,7.2
+BoxOffice.2005.Animation.Madagascar,193136719,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2005.Animation.Robots,128200012,1.2,6.3,,6.3,2.1,9.45
+BoxOffice.2005.Biography.Walk the Line,119518352,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2005.Comedy.Charlie and the Chocolate Factory,206456431,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2005.Comedy.Fun with Dick and Jane,110332737,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2005.Comedy.Hitch,177575142,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2005.Comedy.Mr & Mrs Smith,186336103,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2005.Comedy.The Longest Yard,158115031,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2005.Comedy.The Pacifier,113006880,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.2005.Crime.Fun with Dick and Jane,110332737,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2005.Crime.The Longest Yard,158115031,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2005.Drama.Walk the Line,119518352,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2005.Family.Harry Potter and the Goblet of Fire,289994397,2.4,7.6,,7.6,3.4,15.3
+"BoxOffice.2005.Family.The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",291709845,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2005.Romance.Hitch,177575142,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2005.Sci-Fi.War of the Worlds,234277056,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2006.Action.Casino Royale,167007184,2.4,8,,8,3.8,17.1
+BoxOffice.2006.Action.Ice Age: The Meltdown,195329763,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2006.Action.Mission: Impossible III,133382309,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2006.Action.Night at the Museum,250863268,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2006.Action.Pirates of the Caribbean: Dead Man's Chest,423032628,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2006.Action.Superman Returns,200069408,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2006.Action.Talladega Nights: The Ballad of Ricky Bobby,148213377,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2006.Action.X-Men: The Last Stand,234360014,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2006.Adventure.Cars,244052771,1.8,7.2,,7.2,3,13.5
+BoxOffice.2006.Adventure.Casino Royale,167007184,2.4,8,,8,3.8,17.1
+BoxOffice.2006.Adventure.Ice Age: The Meltdown,195329763,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2006.Adventure.Mission: Impossible III,133382309,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2006.Adventure.Night at the Museum,250863268,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2006.Adventure.Over the Hedge,155019340,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2006.Adventure.Pirates of the Caribbean: Dead Man's Chest,423032628,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2006.Adventure.Superman Returns,200069408,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2006.Adventure.X-Men: The Last Stand,234360014,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2006.Animation.Cars,244052771,1.8,7.2,,7.2,3,13.5
+BoxOffice.2006.Animation.Happy Feet,197992827,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2006.Animation.Over the Hedge,155019340,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2006.Biography.The Pursuit of Happyness,162586036,2.4,8,,8,3.8,17.1
+BoxOffice.2006.Comedy.Click,137340146,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2006.Comedy.Happy Feet,197992827,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2006.Comedy.Talladega Nights: The Ballad of Ricky Bobby,148213377,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2006.Crime.The Departed,132373442,3,8.5,,8.5,4.3,19.35
+BoxOffice.2006.Drama.Click,137340146,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2006.Drama.The Departed,132373442,3,8.5,,8.5,4.3,19.35
+BoxOffice.2006.Drama.The Pursuit of Happyness,162586036,2.4,8,,8,3.8,17.1
+BoxOffice.2006.Mystery.The Da Vinci Code,217536138,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2006.Thriller.The Da Vinci Code,217536138,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2007.Action.Fantastic 4: Rise of the Silver Surfer,131920333,1.2,5.6,,5.6,1.4,6.3
+BoxOffice.2007.Action.Live Free or Die Hard,134520804,1.8,7.2,,7.2,3,13.5
+BoxOffice.2007.Action.Pirates of the Caribbean: At World's End,309404152,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.2007.Action.Rush Hour 3,140080850,1.2,6.2,,6.2,2,9
+BoxOffice.2007.Action.Spider-Man 3,336530303,1.2,6.2,,6.2,2,9
+BoxOffice.2007.Action.The Bourne Ultimatum,227137090,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2007.Action.Transformers,318759914,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.2007.Adventure.Fantastic 4: Rise of the Silver Surfer,131920333,1.2,5.6,,5.6,1.4,6.3
+BoxOffice.2007.Adventure.Harry Potter and the Order of the Phoenix,292000866,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2007.Adventure.Live Free or Die Hard,134520804,1.8,7.2,,7.2,3,13.5
+BoxOffice.2007.Adventure.Pirates of the Caribbean: At World's End,309404152,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.2007.Adventure.Shrek the Third,320706665,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2007.Adventure.Spider-Man 3,336530303,1.2,6.2,,6.2,2,9
+BoxOffice.2007.Adventure.The Simpsons Movie,183132370,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2007.Adventure.Transformers,318759914,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.2007.Animation.Alvin and the Chipmunks,217326336,0.6,5.2,,5.2,1,4.5
+BoxOffice.2007.Animation.Ratatouille,206435493,2.4,8,,8,3.8,17.1
+BoxOffice.2007.Animation.Shrek the Third,320706665,1.2,6.1,,6.1,1.9,8.55
+BoxOffice.2007.Animation.The Simpsons Movie,183132370,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2007.Biography.American Gangster,130127620,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2007.Comedy.Alvin and the Chipmunks,217326336,0.6,5.2,,5.2,1,4.5
+BoxOffice.2007.Comedy.Juno,143492840,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2007.Comedy.Knocked Up,148734225,1.8,7,,7,2.8,12.6
+BoxOffice.2007.Comedy.Ratatouille,206435493,2.4,8,,8,3.8,17.1
+BoxOffice.2007.Comedy.Rush Hour 3,140080850,1.2,6.2,,6.2,2,9
+BoxOffice.2007.Crime.American Gangster,130127620,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2007.Drama.I Am Legend,256386216,1.8,7.2,,7.2,3,13.5
+BoxOffice.2007.Drama.Juno,143492840,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2007.Family.Harry Potter and the Order of the Phoenix,292000866,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2007.Horror.I Am Legend,256386216,1.8,7.2,,7.2,3,13.5
+BoxOffice.2007.Mystery.The Bourne Ultimatum,227137090,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2007.Romance.Knocked Up,148734225,1.8,7,,7,2.8,12.6
+BoxOffice.2008.Action.Gangster's Paradise: Jerusalema,4958,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2008.Action.Iron Man,318298180,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2008.Action.Taken,145000989,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2008.Action.The Dark Knight,533316061,3,9,,9,4.8,21.6
+BoxOffice.2008.Adventure.Iron Man,318298180,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2008.Animation.Waltz with Bashir,2283276,2.4,8,,8,3.8,17.1
+BoxOffice.2008.Biography.Man on Wire,2957978,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2008.Biography.Waltz with Bashir,2283276,2.4,8,,8,3.8,17.1
+BoxOffice.2008.Comedy.In Bruges,7757130,2.4,8,,8,3.8,17.1
+BoxOffice.2008.Crime.Changeling,35707327,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2008.Crime.Gangster's Paradise: Jerusalema,4958,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2008.Crime.In Bruges,7757130,2.4,8,,8,3.8,17.1
+BoxOffice.2008.Crime.Man on Wire,2957978,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2008.Crime.The Dark Knight,533316061,3,9,,9,4.8,21.6
+BoxOffice.2008.Drama.Changeling,35707327,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2008.Drama.Seven Pounds,69951824,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2008.Drama.Slumdog Millionaire,141319195,2.4,8,,8,3.8,17.1
+BoxOffice.2008.Drama.The Boy in the Striped Pajamas,9030581,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2008.Drama.The Curious Case of Benjamin Button,127490802,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2008.Drama.The Wrestler,26236603,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2008.Fantasy.The Curious Case of Benjamin Button,127490802,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2008.Romance.Seven Pounds,69951824,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2008.Romance.Slumdog Millionaire,141319195,2.4,8,,8,3.8,17.1
+BoxOffice.2008.Sport.The Wrestler,26236603,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2008.Thriller.Taken,145000989,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2008.War.The Boy in the Striped Pajamas,9030581,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2009.Action.2012,166112167,1.2,5.8,,5.8,1.6,7.2
+BoxOffice.2009.Action.Avatar,760505847,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2009.Action.Ice Age: Dawn of the Dinosaurs,196573705,1.8,7,,7,2.8,12.6
+BoxOffice.2009.Action.Monsters vs Aliens,198332128,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2009.Action.Sherlock Holmes,209019489,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2009.Action.Star Trek,257704099,2.4,8,,8,3.8,17.1
+BoxOffice.2009.Action.Transformers: Revenge of the Fallen,402076689,1.2,6,,6,1.8,8.1
+BoxOffice.2009.Action.X-Men Origins: Wolverine,179883016,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2009.Adventure.2012,166112167,1.2,5.8,,5.8,1.6,7.2
+BoxOffice.2009.Adventure.Avatar,760505847,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2009.Adventure.Harry Potter and the Half-Blood Prince,301956980,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2009.Adventure.Ice Age: Dawn of the Dinosaurs,196573705,1.8,7,,7,2.8,12.6
+BoxOffice.2009.Adventure.Monsters vs Aliens,198332128,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2009.Adventure.Night at the Museum: Battle of the Smithsonian,177243721,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.2009.Adventure.Sherlock Holmes,209019489,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2009.Adventure.Star Trek,257704099,2.4,8,,8,3.8,17.1
+BoxOffice.2009.Adventure.The Twilight Saga: New Moon,296623634,0.6,4.6,,4.6,0.4,1.8
+BoxOffice.2009.Adventure.Transformers: Revenge of the Fallen,402076689,1.2,6,,6,1.8,8.1
+BoxOffice.2009.Adventure.Up,292979556,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2009.Adventure.X-Men Origins: Wolverine,179883016,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2009.Animation.Alvin and the Chipmunks: The Squeakquel,219613391,0.6,4.5,,4.5,0.3,1.35
+BoxOffice.2009.Animation.Up,292979556,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2009.Biography.The Blind Side,255950375,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2009.Comedy.Alvin and the Chipmunks: The Squeakquel,219613391,0.6,4.5,,4.5,0.3,1.35
+BoxOffice.2009.Comedy.Night at the Museum: Battle of the Smithsonian,177243721,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.2009.Drama.The Blind Side,255950375,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2009.Drama.The Twilight Saga: New Moon,296623634,0.6,4.6,,4.6,0.4,1.8
+BoxOffice.2009.Family.Harry Potter and the Half-Blood Prince,301956980,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2010.Action.Clash of the Titans,163192114,1.2,5.8,,5.8,1.6,7.2
+BoxOffice.2010.Action.Inception,292568851,3,8.8,,8.8,4.6,20.7
+BoxOffice.2010.Action.Iron Man 2,312057433,1.8,7,,7,2.8,12.6
+BoxOffice.2010.Action.Megamind,148337537,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2010.Action.TRON: Legacy,172051787,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2010.Adventure.Alice in Wonderland,334185206,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2010.Adventure.Clash of the Titans,163192114,1.2,5.8,,5.8,1.6,7.2
+BoxOffice.2010.Adventure.How to Train Your Dragon,217387997,2.4,8.2,,8.2,4,18
+BoxOffice.2010.Adventure.Inception,292568851,3,8.8,,8.8,4.6,20.7
+BoxOffice.2010.Adventure.Iron Man 2,312057433,1.8,7,,7,2.8,12.6
+BoxOffice.2010.Adventure.Shrek Forever After,238371987,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2010.Adventure.Tangled,200807262,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2010.Adventure.The Twilight Saga: Eclipse,300523113,0.6,4.9,,4.9,0.7,3.15
+BoxOffice.2010.Adventure.Toy Story 3,414984497,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2010.Adventure.TRON: Legacy,172051787,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2010.Adventure.True Grit,171031347,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2010.Animation.Despicable Me,251501645,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2010.Animation.How to Train Your Dragon,217387997,2.4,8.2,,8.2,4,18
+BoxOffice.2010.Animation.Megamind,148337537,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2010.Animation.Shrek Forever After,238371987,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2010.Animation.Tangled,200807262,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2010.Animation.Toy Story 3,414984497,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2010.Comedy.Despicable Me,251501645,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2010.Comedy.Little Fockers,148383780,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.2010.Drama.The Twilight Saga: Eclipse,300523113,0.6,4.9,,4.9,0.7,3.15
+BoxOffice.2010.Drama.True Grit,171031347,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2010.Family.Alice in Wonderland,334185206,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2010.Romance.Little Fockers,148383780,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.2011.Action.Rise of the Planet of the Apes,176740650,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2011.Action.The Raid: Redemption,4105123,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2011.Action.X-Men: First Class,146405371,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2011.Adventure.X-Men: First Class,146405371,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2011.Biography.Moneyball,75605492,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2011.Comedy.50/50,34963967,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2011.Comedy.Midnight in Paris,56816662,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2011.Comedy.The Artist,44667095,2.4,8,,8,3.8,17.1
+BoxOffice.2011.Crime.Drive,35054909,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2011.Crime.Headhunters,1196752,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2011.Crime.The Girl with the Dragon Tattoo,102515793,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2011.Crime.The Raid: Redemption,4105123,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2011.Documentary.Samsara,2601847,3,8.5,,8.5,4.3,19.35
+BoxOffice.2011.Drama.50/50,34963967,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2011.Drama.A Separation,7098492,2.4,8.4,,8.4,4.2,18.9
+BoxOffice.2011.Drama.Drive,35054909,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2011.Drama.Headhunters,1196752,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2011.Drama.Moneyball,75605492,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2011.Drama.Rise of the Planet of the Apes,176740650,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2011.Drama.The Artist,44667095,2.4,8,,8,3.8,17.1
+BoxOffice.2011.Drama.The Girl with the Dragon Tattoo,102515793,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2011.Drama.Warrior,13651662,2.4,8.2,,8.2,4,18
+BoxOffice.2011.Drama.Weekend,469947,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2011.Fantasy.Midnight in Paris,56816662,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2011.Music.Samsara,2601847,3,8.5,,8.5,4.3,19.35
+BoxOffice.2011.Mystery.A Separation,7098492,2.4,8.4,,8.4,4.2,18.9
+BoxOffice.2011.Romance.Weekend,469947,2.4,7.7,,7.7,3.5,15.75
+BoxOffice.2011.Sport.Warrior,13651662,2.4,8.2,,8.2,4,18
+BoxOffice.2012.Action.Men in Black 3,179020854,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2012.Action.Skyfall,304360277,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2012.Action.The Amazing Spider-Man,262030663,1.8,7,,7,2.8,12.6
+BoxOffice.2012.Action.The Avengers,623279547,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2012.Action.The Dark Knight Rises,448130642,3,8.5,,8.5,4.3,19.35
+BoxOffice.2012.Adventure.Brave,237282182,1.8,7.2,,7.2,3,13.5
+BoxOffice.2012.Adventure.Ice Age: Continental Drift,161317423,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2012.Adventure.Madagascar 3: Europe's Most Wanted,216366733,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2012.Adventure.Men in Black 3,179020854,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2012.Adventure.Skyfall,304360277,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2012.Adventure.The Amazing Spider-Man,262030663,1.8,7,,7,2.8,12.6
+BoxOffice.2012.Adventure.The Avengers,623279547,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2012.Adventure.The Hobbit: An Unexpected Journey,303001229,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2012.Adventure.The Hunger Games,407999255,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2012.Adventure.The Twilight Saga: Breaking Dawn - Part 2,292298923,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.2012.Adventure.Wreck-It Ralph,189412677,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2012.Animation.Brave,237282182,1.8,7.2,,7.2,3,13.5
+BoxOffice.2012.Animation.Ice Age: Continental Drift,161317423,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2012.Animation.Madagascar 3: Europe's Most Wanted,216366733,1.8,6.9,,6.9,2.7,12.15
+BoxOffice.2012.Animation.Wreck-It Ralph,189412677,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2012.Biography.Lincoln,182204440,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2012.Comedy.Ted,218628680,1.8,7,,7,2.8,12.6
+BoxOffice.2012.Drama.Django Unchained,162804648,3,8.5,,8.5,4.3,19.35
+BoxOffice.2012.Drama.Lincoln,182204440,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2012.Drama.The Hunger Games,407999255,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2012.Drama.The Twilight Saga: Breaking Dawn - Part 2,292298923,1.2,5.5,,5.5,1.3,5.85
+BoxOffice.2012.Fantasy.Ted,218628680,1.8,7,,7,2.8,12.6
+BoxOffice.2012.Fantasy.The Hobbit: An Unexpected Journey,303001229,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2012.Thriller.The Dark Knight Rises,448130642,3,8.5,,8.5,4.3,19.35
+BoxOffice.2012.Western.Django Unchained,162804648,3,8.5,,8.5,4.3,19.35
+BoxOffice.2013.Action.Iron Man 3,408992272,1.8,7.2,,7.2,3,13.5
+BoxOffice.2013.Action.Man of Steel,291021565,1.8,7.2,,7.2,3,13.5
+BoxOffice.2013.Action.Star Trek Into Darkness,228756232,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2013.Action.The Heat,159578352,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2013.Action.Thor: The Dark World,206360018,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.2013.Action.World War Z,202351611,1.8,7,,7,2.8,12.6
+BoxOffice.2013.Adventure.Frozen,400736600,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2013.Adventure.Gravity,274084951,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2013.Adventure.Iron Man 3,408992272,1.8,7.2,,7.2,3,13.5
+BoxOffice.2013.Adventure.Man of Steel,291021565,1.8,7.2,,7.2,3,13.5
+BoxOffice.2013.Adventure.Monsters University,268488329,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2013.Adventure.Oz the Great and Powerful,234903076,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2013.Adventure.Star Trek Into Darkness,228756232,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2013.Adventure.The Croods,187165546,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2013.Adventure.The Hobbit: The Desolation of Smaug,258355354,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2013.Adventure.Thor: The Dark World,206360018,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.2013.Adventure.World War Z,202351611,1.8,7,,7,2.8,12.6
+BoxOffice.2013.Animation.Despicable Me 2,368049635,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2013.Animation.Frozen,400736600,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2013.Animation.Monsters University,268488329,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2013.Animation.The Croods,187165546,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2013.Comedy.Despicable Me 2,368049635,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2013.Comedy.The Heat,159578352,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2013.Comedy.We're the Millers,150368971,1.8,7,,7,2.8,12.6
+BoxOffice.2013.Crime.We're the Millers,150368971,1.8,7,,7,2.8,12.6
+BoxOffice.2013.Drama.Gravity,274084951,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2013.Family.Oz the Great and Powerful,234903076,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2013.Fantasy.The Hobbit: The Desolation of Smaug,258355354,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2014.Action.22 Jump Street,191616238,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.2014.Action.American Sniper,350123553,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2014.Action.Big Hero 6,222487711,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2014.Action.Captain America: The Winter Soldier,259746958,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2014.Action.Dawn of the Planet of the Apes,208543795,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2014.Action.Guardians of the Galaxy,333130696,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2014.Action.Maleficent,241407328,1.8,7,,7,2.8,12.6
+BoxOffice.2014.Action.Teenage Mutant Ninja Turtles,190871240,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.2014.Action.The Amazing Spider-Man 2,202853933,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2014.Action.The Lego Movie,257756197,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2014.Action.Transformers: Age of Extinction,245428137,1.2,5.7,,5.7,1.5,6.75
+BoxOffice.2014.Action.X-Men: Days of Future Past,233914986,2.4,8,,8,3.8,17.1
+BoxOffice.2014.Adventure.Big Hero 6,222487711,2.4,7.9,,7.9,3.7,16.65
+BoxOffice.2014.Adventure.Captain America: The Winter Soldier,259746958,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2014.Adventure.Dawn of the Planet of the Apes,208543795,2.4,7.6,,7.6,3.4,15.3
+BoxOffice.2014.Adventure.Guardians of the Galaxy,333130696,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2014.Adventure.Interstellar,187991439,3,8.6,,8.6,4.4,19.8
+BoxOffice.2014.Adventure.Maleficent,241407328,1.8,7,,7,2.8,12.6
+BoxOffice.2014.Adventure.Teenage Mutant Ninja Turtles,190871240,1.2,5.9,,5.9,1.7,7.65
+BoxOffice.2014.Adventure.The Amazing Spider-Man 2,202853933,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2014.Adventure.The Hobbit: The Battle of the Five Armies,255108370,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2014.Adventure.The Hunger Games: Mockingjay - Part 1,337103873,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2014.Adventure.The Lego Movie,257756197,2.4,7.8,,7.8,3.6,16.2
+BoxOffice.2014.Adventure.Transformers: Age of Extinction,245428137,1.2,5.7,,5.7,1.5,6.75
+BoxOffice.2014.Adventure.X-Men: Days of Future Past,233914986,2.4,8,,8,3.8,17.1
+BoxOffice.2014.Biography.American Sniper,350123553,1.8,7.3,,7.3,3.1,13.95
+BoxOffice.2014.Comedy.22 Jump Street,191616238,1.8,7.1,,7.1,2.9,13.05
+BoxOffice.2014.Drama.Interstellar,187991439,3,8.6,,8.6,4.4,19.8
+BoxOffice.2014.Fantasy.The Hobbit: The Battle of the Five Armies,255108370,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2014.Sci-Fi.The Hunger Games: Mockingjay - Part 1,337103873,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2015.Action.Ant-Man,180191634,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2015.Action.Avengers: Age of Ultron,458991599,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2015.Action.Furious 7,350034110,1.8,7.2,,7.2,3,13.5
+BoxOffice.2015.Action.Jurassic World,652177271,1.8,7,,7,2.8,12.6
+BoxOffice.2015.Action.Minions,336029560,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2015.Action.Mission: Impossible - Rogue Nation,195000874,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2015.Action.Spectre,200074175,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2015.Adventure.Ant-Man,180191634,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2015.Adventure.Avengers: Age of Ultron,458991599,2.4,7.5,,7.5,3.3,14.85
+BoxOffice.2015.Adventure.Home,177343675,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2015.Adventure.Inside Out,356454367,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2015.Adventure.Jurassic World,652177271,1.8,7,,7,2.8,12.6
+BoxOffice.2015.Adventure.Mission: Impossible - Rogue Nation,195000874,1.8,7.4,,7.4,3.2,14.4
+BoxOffice.2015.Adventure.Spectre,200074175,1.8,6.8,,6.8,2.6,11.7
+BoxOffice.2015.Adventure.The Hunger Games: Mockingjay - Part 2,281666058,1.8,6.6,,6.6,2.4,10.8
+BoxOffice.2015.Adventure.The Martian,228430993,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2015.Adventure.The Revenant,183635922,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2015.Animation.Home,177343675,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2015.Animation.Hotel Transylvania 2,169692572,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2015.Animation.Inside Out,356454367,2.4,8.3,,8.3,4.1,18.45
+BoxOffice.2015.Animation.Minions,336029560,1.2,6.4,,6.4,2.2,9.9
+BoxOffice.2015.Comedy.Hotel Transylvania 2,169692572,1.8,6.7,,6.7,2.5,11.25
+BoxOffice.2015.Comedy.Pitch Perfect 2,183436380,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2015.Crime.Furious 7,350034110,1.8,7.2,,7.2,3,13.5
+BoxOffice.2015.Drama.Cinderella,201148159,1.8,7,,7,2.8,12.6
+BoxOffice.2015.Drama.The Martian,228430993,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2015.Drama.The Revenant,183635922,2.4,8.1,,8.1,3.9,17.55
+BoxOffice.2015.Family.Cinderella,201148159,1.8,7,,7,2.8,12.6
+BoxOffice.2015.Music.Pitch Perfect 2,183436380,1.8,6.5,,6.5,2.3,10.35
+BoxOffice.2015.Sci-Fi.The Hunger Games: Mockingjay - Part 2,281666058,1.8,6.6,,6.6,2.4,10.8
